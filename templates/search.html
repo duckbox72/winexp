@@ -1,0 +1,41 @@
+{% extends "layout.html"%}
+   
+{% block title %}
+    Search
+{% endblock %}
+
+{% block main %}
+<div class="container p5 border border-muted rounded shadow bg-light" style="height: 495px;">
+    <div class="row justify-content-center">  
+        <h3 class="text-muted text-center pt-5 ">Search WineXp</h3>
+    </div>
+    <div class="row justify-content-center">   
+        <p class="text-muted text-center" style="font-size: 12px;">For more than 30,000 wine scores</p>
+    </div>
+    
+    <form action="/search" method="POST">
+        <div class="row justify-content-center">
+            <div class="form-group">
+                <input class="form-control rounded-pill shadow-sm" name="wine" type="text" placeholder="Wine name" autofocus style="font-size: 21px;">
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="form-group">
+                <input class="form-control rounded-pill shadow-sm" name="vintage" type="number" placeholder="Vintage" style="font-size: 21px;">
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="form-group">
+                <button class="btn btn-primary border border-muted rounded-pill shadow" type="submit>" style="min-width: 120px; font-size: 22px;"> <img src="static/mag-glass-icon.png" height=22 alt="Search"> </button>
+            </div>
+        </div>
+        <div class="row justify-content-center">   
+            <p class="text-muted text-center p-2" style="font-size: 12px;">Or browse the <a href="/vintages">Vintage Scores</a> charts.</p>
+        </div>
+    </form>
+</div>
+{% endblock %}
+
+{% block footer %}
+    Data provided by <a href="https://api.globalwinescore.com/">GWS</a>. View <a href="https://globalwinescore.docs.apiary.io/introduction/rate-limiting">GWS’s Terms of Use</a>.
+{% endblock %}

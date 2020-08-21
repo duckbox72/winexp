@@ -1,0 +1,1185 @@
+country,region,vintage,wsscore,rpscore,wescore,score,status
+Argentina,Mendoza,2018,91,95,92,93,Hold
+Argentina,Mendoza,2017,89,92,91,91,Drink or hold
+Argentina,Mendoza,2016,84,96,84,88,Drink or hold
+Argentina,Mendoza,2015,85,92,85,87,Drink
+Argentina,Mendoza,2014,87,92,85,88,Drink or hold
+Argentina,Mendoza,2013,90,95,90,92,Drink or hold
+Argentina,Mendoza,2012,87,91,87,88,Drink or hold
+Argentina,Mendoza,2011,91,94,89,91,Drink or hold
+Argentina,Mendoza,2010,89,92,90,90,Drink or hold
+Argentina,Mendoza,2009,88,90,89,89,Drink or hold
+Argentina,Mendoza,2008,86,91,87,88,Drink or hold
+Argentina,Mendoza,2007,88,92,86,89,Drink or hold
+Argentina,Mendoza,2006,91,94,93,93,Drink
+Argentina,Mendoza,2005,90,93,89,91,Drink
+Argentina,Mendoza,2004,90,91,88,90,Drink
+Argentina,Mendoza,2003,91,92,92,92,Drink
+Argentina,Mendoza,2002,94,93,94,94,Drink
+Argentina,Mendoza,2001,87,89,85,87,Drink
+Argentina,Mendoza,2000,86,89,87,87,Past peak
+Argentina,Mendoza,1999,90,90,90,90,Past peak
+Argentina,Mendoza,1998,75,78,83,79,Past peak
+Argentina,Mendoza,1997,88,86,89,88,Past peak
+Argentina,Mendoza,1996,94,93,95,94,Past peak
+Argentina,Mendoza,1995,93,94,95,94,Past peak
+Australia,Barossa and McLaren Vale: Shiraz,2019,92,92,93,92,Drink or hold
+Australia,Barossa and McLaren Vale: Shiraz,2018,93,92,96,94,Drink or hold
+Australia,Barossa and McLaren Vale: Shiraz,2017,92,89,92,91,Drink or hold
+Australia,Barossa and McLaren Vale: Shiraz,2016,93,91,92,92,Drink or hold
+Australia,Barossa and McLaren Vale: Shiraz,2015,94,94,91,93,Drink or hold
+Australia,Barossa and McLaren Vale: Shiraz,2014,91,87,90,89,Drink or hold
+Australia,Barossa and McLaren Vale: Shiraz,2013,90,94,93,92,Drink or hold
+Australia,Barossa and McLaren Vale: Shiraz,2012,95,94,96,95,Drink or hold
+Australia,Barossa and McLaren Vale: Shiraz,2011,80,80,83,81,Drink
+Australia,Barossa and McLaren Vale: Shiraz,2010,94,96,91,94,Drink or hold
+Australia,Barossa and McLaren Vale: Shiraz,2009,87,89,91,89,Drink
+Australia,Barossa and McLaren Vale: Shiraz,2008,91,85,87,88,Drink
+Australia,Barossa and McLaren Vale: Shiraz,2007,88,87,89,88,Drink
+Australia,Barossa and McLaren Vale: Shiraz,2006,92,94,91,92,Drink
+Australia,Barossa and McLaren Vale: Shiraz,2005,96,96,95,96,Drink
+Australia,Barossa and McLaren Vale: Shiraz,2004,93,94,94,94,Drink
+Australia,Barossa and McLaren Vale: Shiraz,2003,85,90,87,87,Drink
+Australia,Barossa and McLaren Vale: Shiraz,2002,90,95,94,93,Drink or hold
+Australia,Barossa and McLaren Vale: Shiraz,2001,92,95,93,93,Drink
+Australia,Barossa and McLaren Vale: Shiraz,2000,90,88,87,88,Drink
+Australia,Barossa and McLaren Vale: Shiraz,1998,95,95,89,93,Drink
+Australia,Barossa and McLaren Vale: Shiraz,1996,90,90,93,91,Drink
+Australia,Barossa and McLaren Vale: Shiraz,1994,90,90,90,90,Drink
+Australia,Victoria: Shiraz,2019,93,91,92,92,Drink or hold
+Australia,Victoria: Shiraz,2018,92,92,92,92,Drink or hold
+Australia,Victoria: Shiraz,2017,93,87,90,90,Drink or hold
+Australia,Victoria: Shiraz,2016,90,91,90.5,91,Drink or hold
+Australia,Victoria: Shiraz,2015,94,93,93.5,94,Drink or hold
+Australia,Victoria: Shiraz,2014,91,90,90.5,91,Drink or hold
+Australia,Victoria: Shiraz,2013,92,93,92.5,93,Drink or hold
+Australia,Victoria: Shiraz,2012,88,94,91,91,Drink
+Australia,Victoria: Shiraz,2011,82,78,80,80,Drink
+Australia,Victoria: Shiraz,2010,92,92,92,92,Drink
+Australia,Victoria: Shiraz,2009,85,87,86,86,Drink or hold
+Australia,Victoria: Shiraz,2008,93,88,90.5,91,Drink
+Australia,Victoria: Shiraz,2007,89,88,88.5,89,Drink
+Australia,Victoria: Shiraz,2006,87,93,90,90,Drink
+Australia,Victoria: Shiraz,2005,94,91,92.5,93,Drink
+Australia,Victoria: Shiraz,2004,88,90,89,89,Drink
+Australia,Victoria: Shiraz,2003,91,88,89.5,90,Drink
+Australia,Victoria: Shiraz,2002,84,88,86,86,Past peak
+Australia,Victoria: Shiraz,2001,90,90,90,90,Drink
+Austria,Riesling and Grüner Veltliners Whites,2018,91,91,94,92,Drink or hold
+Austria,Riesling and Grüner Veltliners Whites,2017,94,92,94,93,Drink or hold
+Austria,Riesling and Grüner Veltliners Whites,2016,92,90,94,92,Drink or hold
+Austria,Riesling and Grüner Veltliners Whites,2015,95,95,94,95,Drink or hold
+Austria,Riesling and Grüner Veltliners Whites,2014,87,78,90,85,Drink
+Austria,Riesling and Grüner Veltliners Whites,2013,92,91,93,92,Drink or hold
+Austria,Riesling and Grüner Veltliners Whites,2012,90,89,94,91,Drink or hold
+Austria,Riesling and Grüner Veltliners Whites,2011,90,89,94,91,Drink
+Austria,Riesling and Grüner Veltliners Whites,2010,89,88,90,89,Drink or hold
+Austria,Riesling and Grüner Veltliners Whites,2009,92,89,93,91,Drink or hold
+Austria,Riesling and Grüner Veltliners Whites,2008,94,88,89,90,Drink
+Austria,Riesling and Grüner Veltliners Whites,2007,93,90,90,91,Drink or hold
+Austria,Riesling and Grüner Veltliners Whites,2006,95,91,92,93,Drink or hold
+Austria,Riesling and Grüner Veltliners Whites,2005,92,87,88,89,Drink
+Austria,Riesling and Grüner Veltliners Whites,2004,89,88,88,88,Past peak
+Austria,Riesling and Grüner Veltliners Whites,2003,88,89,87,88,Past peak
+Austria,Riesling and Grüner Veltliners Whites,2002,90,89,88,89,Drink
+Austria,Riesling and Grüner Veltliners Whites,2001,89,88,89,89,Drink
+Austria,Riesling and Grüner Veltliners Whites,2000,85,85,86,85,Drink
+Austria,Riesling and Grüner Veltliners Whites,1999,95,95,92,94,Drink
+Austria,Riesling and Grüner Veltliners Whites,1998,82,82,88,84,Drink
+Austria,Riesling and Grüner Veltliners Whites,1997,96,96,89,94,Drink
+Austria,Riesling and Grüner Veltliners Whites,1996,84,84,88,85,Drink
+Austria,Riesling and Grüner Veltliners Whites,1995,90,90,88,89,Drink
+Chile,Reds,2018,92,96,92,93,Drink or hold
+Chile,Reds,2017,88,91,86,88,Drink or hold
+Chile,Reds,2016,87,93,83,88,Drink or hold
+Chile,Reds,2015,92,92,90,91,Drink or hold
+Chile,Reds,2014,88,91,88,89,Drink or hold
+Chile,Reds,2013,91,93,90,91,Drink
+Chile,Reds,2012,91,87,88,89,Drink
+Chile,Reds,2011,90,92,89,90,Drink
+Chile,Reds,2010,89,90,88,89,Drink
+Chile,Reds,2009,88,88,88,88,Past peak
+Chile,Reds,2008,89,90,89,89,Past peak
+Chile,Reds,2007,92,88,95,92,Past peak
+Chile,Reds,2006,91,89,88,89,Past peak
+Chile,Reds,2005,93,90,94,92,Past peak
+Chile,Reds,2004,88,89,90,89,Past peak
+Chile,Reds,2003,91,91,93,92,Past peak
+Chile,Reds,2002,88,88,86,87,Past peak
+Chile,Reds,2001,92,92,92,92,Past peak
+Chile,Reds,2000,87,88,88,88,Past peak
+Chile,Reds,1999,91,92,91,91,Past peak
+Chile,Reds,1998,78,80,83,80,Past peak
+Chile,Reds,1997,88,87,91,89,Drink
+Chile,Reds,1996,89,91,91,90,Drink
+France,Alsace,2017,93,92,93,93,Drink or hold
+France,Alsace,2016,90,91,90,90,Drink or hold
+France,Alsace,2015,91,93,92,92,Drink or hold
+France,Alsace,2014,88,89,89,89,Drink
+France,Alsace,2013,89,86,89,88,Drink
+France,Alsace,2012,90,87,92,90,Drink
+France,Alsace,2011,91,88,91,90,Drink or hold
+France,Alsace,2010,93,89,93,92,Drink or hold
+France,Alsace,2009,94,82,95,90,Drink or hold
+France,Alsace,2008,94,89,90,91,Drink or hold
+France,Alsace,2007,95,91,94,93,Drink or hold
+France,Alsace,2006,89,79,88,85,Drink
+France,Alsace,2005,94,87,91,91,Drink or hold
+France,Alsace,2004,92,86,93,90,Drink or hold
+France,Alsace,2003,88,82,89,86,Past peak
+France,Alsace,2002,92,88,88,89,Drink or hold
+France,Alsace,2001,94,91,94,93,Drink or hold
+France,Alsace,2000,93,90,86,90,Drink or hold
+France,Bordeaux/Left Bank Reds,2018,97,97,95,96,Hold
+France,Bordeaux/Left Bank Reds,2017,91,91,95,92,Hold
+France,Bordeaux/Left Bank Reds,2016,97,97,97,97,Hold
+France,Bordeaux/Left Bank Reds,2015,94,95,98,96,Hold
+France,Bordeaux/Left Bank Reds,2014,93,92,94,93,Hold
+France,Bordeaux/Left Bank Reds,2013,84,82,88,85,Drink
+France,Bordeaux/Left Bank Reds,2012,88,91,91,90,Drink or hold
+France,Bordeaux/Left Bank Reds,2011,91,87,91,90,Hold
+France,Bordeaux/Left Bank Reds,2010,99,98,98,98,Hold
+France,Bordeaux/Left Bank Reds,2009,97,98,97,97,Drink or hold
+France,Bordeaux/Left Bank Reds,2008,87,91,92,90,Drink
+France,Bordeaux/Left Bank Reds,2007,85,86,87,86,Drink
+France,Bordeaux/Left Bank Reds,2006,90,87,89,89,Drink or hold
+France,Bordeaux/Left Bank Reds,2005,98,97,98,98,Hold
+France,Bordeaux/Left Bank Reds,2004,89,88,89,89,Drink or hold
+France,Bordeaux/Left Bank Reds,2003,95,91,89,92,Drink or hold
+France,Bordeaux/Left Bank Reds,2002,86,88,86,87,Drink
+France,Bordeaux/Left Bank Reds,2001,90,88,95,91,Drink or hold
+France,Bordeaux/Left Bank Reds,2000,95,96,96,96,Drink or hold
+France,Bordeaux/Left Bank Reds,1999,87,89,88,88,Drink or hold
+France,Bordeaux/Left Bank Reds,1998,88,87,90,88,Drink
+France,Bordeaux/Left Bank Reds,1997,85,84,84,84,Drink
+France,Bordeaux/Left Bank Reds,1996,91,90,92,91,Drink
+France,Bordeaux/Left Bank Reds,1995,95,91,91,92,Drink or hold
+France,Bordeaux/Left Bank Reds,1994,85,86,85.5,86,Drink
+France,Bordeaux/Left Bank Reds,1993,82,82,82,82,Past peak
+France,Bordeaux/Left Bank Reds,1992,72,75,73.5,74,Past peak
+France,Bordeaux/Left Bank Reds,1991,72,75,73.5,74,Past peak
+France,Bordeaux/Left Bank Reds,1990,97,94,95.5,96,Drink
+France,Bordeaux/Left Bank Reds,1989,98,90,94,94,Drink
+France,Bordeaux/Left Bank Reds,1988,93,87,90,90,Drink
+France,Bordeaux/Left Bank Reds,1987,76,82,79,79,Past peak
+France,Bordeaux/Left Bank Reds,1986,95,92,93.5,94,Drink
+France,Bordeaux/Left Bank Reds,1985,93,89,91,91,Drink
+France,Bordeaux/Left Bank Reds,1984,70,72,71,71,Past peak
+France,Bordeaux/Left Bank Reds,1983,86,89,87.5,88,Drink
+France,Bordeaux/Left Bank Reds,1982,95,94,94.5,95,Drink
+France,Bordeaux/Left Bank Reds,1981,82,84,83,83,Past peak
+France,Bordeaux/Left Bank Reds,1980,78,78,78,78,Past peak
+France,Bordeaux/Left Bank Reds,1979,83,87,85,85,Drink
+France,Bordeaux/Left Bank Reds,1978,87,87,87,87,Drink
+France,Bordeaux/Left Bank Reds,1977,60,58,59,59,Past peak
+France,Bordeaux/Left Bank Reds,1976,80,82,81,81,Past peak
+France,Bordeaux/Left Bank Reds,1975,85,86,85.5,86,Drink
+France,Bordeaux/Left Bank Reds,1974,58,55,56.5,57,Past peak
+France,Bordeaux/Left Bank Reds,1973,68,70,69,69,Past peak
+France,Bordeaux/Left Bank Reds,1971,85,84,84.5,85,Past peak
+France,Bordeaux/Left Bank Reds,1970,88,87,87.5,88,Past peak
+France,Bordeaux/Right Bank Reds,2018,97,96,94,96,Hold
+France,Bordeaux/Right Bank Reds,2017,93,90,94,92,Drink or hold
+France,Bordeaux/Right Bank Reds,2016,94,96,97,96,Drink or hold
+France,Bordeaux/Right Bank Reds,2015,97,96,96,96,Hold
+France,Bordeaux/Right Bank Reds,2014,91,93,95,93,Drink or hold
+France,Bordeaux/Right Bank Reds,2013,86,83,87,85,Drink
+France,Bordeaux/Right Bank Reds,2012,90,94,90,91,Drink or hold
+France,Bordeaux/Right Bank Reds,2011,91,88,90,90,Hold
+France,Bordeaux/Right Bank Reds,2010,98,95,97,97,Hold
+France,Bordeaux/Right Bank Reds,2009,96,96,96,96,Drink or hold
+France,Bordeaux/Right Bank Reds,2008,88,94,92,91,Drink
+France,Bordeaux/Right Bank Reds,2007,86,86,88,87,Drink
+France,Bordeaux/Right Bank Reds,2006,89,89,89,89,Drink or hold
+France,Bordeaux/Right Bank Reds,2005,97,97,98,97,Hold
+France,Bordeaux/Right Bank Reds,2004,88,99,91,93,Drink or hold
+France,Bordeaux/Right Bank Reds,2003,94,87,88,90,Hold
+France,Bordeaux/Right Bank Reds,2002,87,86,87,87,Drink
+France,Bordeaux/Right Bank Reds,2001,89,90,95,91,Drink
+France,Bordeaux/Right Bank Reds,2000,93,96,97,95,Drink or hold
+France,Bordeaux/Right Bank Reds,1999,85,88,88,87,Drink
+France,Bordeaux/Right Bank Reds,1998,95,96,92,94,Drink or hold
+France,Bordeaux/Right Bank Reds,1997,86,87,85,86,Drink
+France,Bordeaux/Right Bank Reds,1996,87,86,86,86,Drink
+France,Bordeaux/Right Bank Reds,1995,95,91,91,92,Drink or hold
+France,Bordeaux/Right Bank Reds,1994,85,87,86,86,Drink
+France,Bordeaux/Right Bank Reds,1993,82,86,84,84,Past peak
+France,Bordeaux/Right Bank Reds,1992,72,80,76,76,Past peak
+France,Bordeaux/Right Bank Reds,1991,72,60,66,66,Past peak
+France,Bordeaux/Right Bank Reds,1990,97,97,97,97,Drink
+France,Bordeaux/Right Bank Reds,1989,98,94,96,96,Drink
+France,Bordeaux/Right Bank Reds,1988,93,89,91,91,Drink
+France,Bordeaux/Right Bank Reds,1987,76,82,79,79,Past peak
+France,Bordeaux/Right Bank Reds,1986,95,88,91.5,92,Drink
+France,Bordeaux/Right Bank Reds,1985,93,88,90.5,91,Drink
+France,Bordeaux/Right Bank Reds,1984,70,68,69,69,Past peak
+France,Bordeaux/Right Bank Reds,1983,86,90,88,88,Drink
+France,Bordeaux/Right Bank Reds,1982,95,95,95,95,Drink
+France,Bordeaux/Right Bank Reds,1981,82,84,83,83,Past peak
+France,Bordeaux/Right Bank Reds,1980,78,76,77,77,Past peak
+France,Bordeaux/Right Bank Reds,1979,83,85,84,84,Drink
+France,Bordeaux/Right Bank Reds,1978,87,84,85.5,86,Drink
+France,Bordeaux/Right Bank Reds,1977,60,82,71,71,Past peak
+France,Bordeaux/Right Bank Reds,1976,80,88,84,84,Past peak
+France,Bordeaux/Right Bank Reds,1975,85,85,85,85,Drink
+France,Bordeaux/Right Bank Reds,1974,58,62,60,60,Past peak
+France,Bordeaux/Right Bank Reds,1973,68,70,69,69,Past peak
+France,Bordeaux/Right Bank Reds,1972,60,65,62.5,63,Past peak
+France,Bordeaux/Right Bank Reds,1971,88,86,87,87,Past peak
+France,Bordeaux/Right Bank Reds,1970,88,88,88,88,Past peak
+France,Bordeaux/Sauternes,2018,91,91,96,93,Hold
+France,Bordeaux/Sauternes,2017,91,91,96,93,Hold
+France,Bordeaux/Sauternes,2016,90,92,95,92,Hold
+France,Bordeaux/Sauternes,2015,94,95,96,95,Hold
+France,Bordeaux/Sauternes,2014,96,92,95,94,Hold
+France,Bordeaux/Sauternes,2013,93,92,94,93,Hold
+France,Bordeaux/Sauternes,2012,86,88,88,87,Drink
+France,Bordeaux/Sauternes,2011,97,93,95,95,Hold
+France,Bordeaux/Sauternes,2010,93,90,95,93,Hold
+France,Bordeaux/Sauternes,2009,96,97,95,96,Hold
+France,Bordeaux/Sauternes,2008,90,89,88,89,Drink
+France,Bordeaux/Sauternes,2007,92,94,95,94,Drink or hold
+France,Bordeaux/Sauternes,2006,91,88,91,90,Drink or hold
+France,Bordeaux/Sauternes,2005,93,96,89,93,Hold
+France,Bordeaux/Sauternes,2004,89,87,87,88,Drink
+France,Bordeaux/Sauternes,2003,95,89,92,92,Drink or hold
+France,Bordeaux/Sauternes,2002,87,85,92,88,Drink
+France,Bordeaux/Sauternes,2001,97,93,95,95,Drink or hold
+France,Bordeaux/Sauternes,2000,87,88,81,85,Drink
+France,Bordeaux/Sauternes,1999,90,88,94,91,Drink
+France,Bordeaux/Sauternes,1998,88,87,87,87,Drink
+France,Bordeaux/Sauternes,1997,92,89,92,91,Drink or hold
+France,Bordeaux/Sauternes,1996,89,87,85,87,Drink
+France,Bordeaux/Sauternes,1995,87,85,88,87,Drink
+France,Bordeaux/Sauternes,1992,72,78,75,75,Past peak
+France,Bordeaux/Sauternes,1991,77,70,73.5,74,Past peak
+France,Bordeaux/Sauternes,1990,97,98,97.5,98,Drink
+France,Bordeaux/Sauternes,1989,98,90,94,94,Drink
+France,Bordeaux/Sauternes,1988,93,98,95.5,96,Drink
+France,Bordeaux/Sauternes,1987,79,70,74.5,75,Past peak
+France,Bordeaux/Sauternes,1986,90,94,92,92,Drink
+France,Bordeaux/Sauternes,1985,79,85,82,82,Past peak
+France,Bordeaux/Sauternes,1984,68,70,69,69,Past peak
+France,Bordeaux/Sauternes,1983,95,88,91.5,92,Drink
+France,Bordeaux/Sauternes,1982,77,75,76,76,Past peak
+France,Bordeaux/Sauternes,1981,83,85,84,84,Past peak
+France,Bordeaux/Sauternes,1980,82,85,83.5,84,Past peak
+France,Bordeaux/Sauternes,1979,75,75,75,75,Past peak
+France,Bordeaux/Sauternes,1978,75,75,75,75,Past peak
+France,Bordeaux/Sauternes,1976,93,87,90,90,Drink
+France,Bordeaux/Sauternes,1975,94,90,92,92,Drink
+France,Bordeaux/Sauternes,1971,91,86,88.5,89,Drink
+France,Bordeaux/Sauternes,1967,97,84,90.5,91,Drink
+France,Bordeaux/Sauternes,1959,98,98,98,98,Drink
+France,Burgundy/Côtes de Beaune Reds,2018,93,94,95,94,Hold
+France,Burgundy/Côtes de Beaune Reds,2017,93,92,95,93,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2016,94,92,93,93,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2015,95,96,96,96,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2014,93,91,90,91,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2013,89,89,88,89,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2012,92,91,90,91,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2011,90,90,92,91,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2010,91,94,94,93,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2009,93,95,95,94,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2008,89,89,91,90,Drink
+France,Burgundy/Côtes de Beaune Reds,2007,88,90,87,88,Drink
+France,Burgundy/Côtes de Beaune Reds,2006,88,82,90,87,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2005,95,96,95,95,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2004,85,79,90,85,Drink
+France,Burgundy/Côtes de Beaune Reds,2003,90,87,93,90,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2002,92,92,96,93,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,2001,84,88,88,87,Drink
+France,Burgundy/Côtes de Beaune Reds,2000,81,86,84,84,Drink
+France,Burgundy/Côtes de Beaune Reds,1999,90,93,88,90,Drink or hold
+France,Burgundy/Côtes de Beaune Reds,1998,83,82,87,84,Drink
+France,Burgundy/Côtes de Beaune Reds,1997,83,88,90,87,Drink
+France,Burgundy/Côtes de Beaune Reds,1996,88,89,95,91,Drink
+France,Burgundy/Côtes de Beaune Reds,1995,83,85,91,86,Drink
+France,Burgundy/Côtes de Beaune Reds,1994,74,73,73.5,74,Past peak
+France,Burgundy/Côtes de Beaune Reds,1993,79,80,79.5,80,Past peak
+France,Burgundy/Côtes de Beaune Reds,1992,83,82,82.5,83,Drink
+France,Burgundy/Côtes de Beaune Reds,1991,76,77,76.5,77,Past peak
+France,Burgundy/Côtes de Beaune Reds,1990,91,92,91.5,92,Drink
+France,Burgundy/Côtes de Beaune Reds,1989,87,86,86.5,87,Drink
+France,Burgundy/Côtes de Beaune Reds,1988,88,87,87.5,88,Drink
+France,Burgundy/Côtes de Beaune Reds,1987,78,79,78.5,79,Past peak
+France,Burgundy/Côtes de Beaune Reds,1986,72,72,72,72,Past peak
+France,Burgundy/Côtes de Beaune Reds,1985,88,88,88,88,Drink
+France,Burgundy/Côtes de Beaune Reds,1984,71,70,70.5,71,Past peak
+France,Burgundy/Côtes de Beaune Reds,1983,77,78,77.5,78,Past peak
+France,Burgundy/Côtes de Beaune Reds,1982,81,80,80.5,81,Drink
+France,Burgundy/Côtes de Beaune Reds,1981,75,74,74.5,75,Past peak
+France,Burgundy/Côtes de Beaune Reds,1980,77,78,77.5,78,Past peak
+France,Burgundy/Côtes de Beaune Reds,1979,76,77,76.5,77,Past peak
+France,Burgundy/Côtes de Beaune Reds,1978,86,86,86,86,Drink
+France,Burgundy/Côtes de Beaune Reds,1976,89,88,88.5,89,Drink
+France,Burgundy/Côtes de Beaune Reds,1971,88,87,87.5,88,Drink
+France,Burgundy/Côtes de Beaune Reds,1970,86,84,85,85,Past peak
+France,Burgundy/Côtes de Nuits Reds,2018,93,93,95,94,Hold
+France,Burgundy/Côtes de Nuits Reds,2017,94,93,95,94,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,2016,97,97,94,96,Hold
+France,Burgundy/Côtes de Nuits Reds,2015,98,98,98,98,Hold
+France,Burgundy/Côtes de Nuits Reds,2014,95,92,90,92,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,2013,92,92,89,91,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,2012,95,95,91,94,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,2011,91,91,91,91,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,2010,94,96,95,95,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,2009,95,95,95,95,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,2008,91,88,89,89,Drink
+France,Burgundy/Côtes de Nuits Reds,2007,90,91,88,90,Drink
+France,Burgundy/Côtes de Nuits Reds,2006,91,89,89,90,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,2005,98,98,96,97,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,2004,88,83,91,87,Drink
+France,Burgundy/Côtes de Nuits Reds,2003,93,89,94,92,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,2002,96,94,97,96,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,2001,89,91,88,89,Drink
+France,Burgundy/Côtes de Nuits Reds,2000,86,87,84,86,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,1999,92,92,93,92,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,1998,89,84,92,88,Drink
+France,Burgundy/Côtes de Nuits Reds,1997,85,89,90,88,Drink
+France,Burgundy/Côtes de Nuits Reds,1996,96,89,96,94,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,1995,90,90,90,90,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,1994,81,72,76.5,77,Drink
+France,Burgundy/Côtes de Nuits Reds,1993,91,85,88,88,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,1992,79,70,74.5,75,Past peak
+France,Burgundy/Côtes de Nuits Reds,1991,86,86,86,86,Drink
+France,Burgundy/Côtes de Nuits Reds,1990,98,95,96.5,97,Drink or hold
+France,Burgundy/Côtes de Nuits Reds,1989,93,87,90,90,Drink
+France,Burgundy/Côtes de Nuits Reds,1988,90,86,88,88,Drink
+France,Burgundy/Côtes de Nuits Reds,1987,85,80,82.5,83,Past peak
+France,Burgundy/Côtes de Nuits Reds,1986,79,70,74.5,75,Past peak
+France,Burgundy/Côtes de Nuits Reds,1985,95,90,92.5,93,Drink
+France,Burgundy/Côtes de Nuits Reds,1984,74,78,76,76,Past peak
+France,Burgundy/Côtes de Nuits Reds,1983,79,75,77,77,Past peak
+France,Burgundy/Côtes de Nuits Reds,1982,78,78,78,78,Past peak
+France,Burgundy/Côtes de Nuits Reds,1981,74,68,71,71,Past peak
+France,Burgundy/Côtes de Nuits Reds,1980,79,84,81.5,82,Past peak
+France,Burgundy/Côtes de Nuits Reds,1979,92,88,90,90,Drink
+France,Burgundy/Côtes de Nuits Reds,1978,92,88,90,90,Drink
+France,Burgundy/Côtes de Nuits Reds,1976,89,86,87.5,88,Drink
+France,Burgundy/Côtes de Nuits Reds,1971,88,87,87.5,88,Drink
+France,Burgundy/Côtes de Nuits Reds,1970,86,82,84,84,Drink
+France,Burgundy/White,2018,91,92,95,93,Drink or hold
+France,Burgundy/White,2017,94,96,95,95,Drink or hold
+France,Burgundy/White,2016,92,88,95,92,Drink or hold
+France,Burgundy/White,2015,95,94,94,94,Drink or hold
+France,Burgundy/White,2014,96,97,95,96,Drink or hold
+France,Burgundy/White,2013,90,90,94,91,Drink or hold
+France,Burgundy/White,2012,92,92,95,93,Drink or hold
+France,Burgundy/White,2011,92,91,94,92,Drink or hold
+France,Burgundy/White,2010,93,94,96,94,Drink or hold
+France,Burgundy/White,2009,89,91,95,92,Drink or hold
+France,Burgundy/White,2008,93,94,92,93,Drink or hold
+France,Burgundy/White,2007,92,91,91,91,Drink or hold
+France,Burgundy/White,2006,91,90,91,91,Drink
+France,Burgundy/White,2005,93,88,96,92,Drink or hold
+France,Burgundy/White,2004,90,91,93,91,Drink
+France,Burgundy/White,2003,87,84,88,86,Drink
+France,Burgundy/White,2002,95,92,96,94,Drink
+France,Burgundy/White,2001,89,86,92,89,Drink
+France,Burgundy/White,2000,90,88,91,90,Drink
+France,Burgundy/White,1999,88,89,88,88,Drink
+France,Burgundy/White,1998,88,84,90,87,Drink
+France,Burgundy/White,1997,88,89,89,89,Drink
+France,Burgundy/White,1996,95,92,92,93,Drink
+France,Burgundy/White,1995,93,93,91,92,Drink
+France,Burgundy/White,1994,87,80,83.5,84,Past peak
+France,Burgundy/White,1993,82,78,80,80,Past peak
+France,Burgundy/White,1992,89,90,89.5,90,Drink
+France,Burgundy/White,1991,85,76,80.5,81,Past peak
+France,Burgundy/White,1990,92,87,89.5,90,Drink
+France,Burgundy/White,1989,92,90,91,91,Drink
+France,Burgundy/White,1988,86,82,84,84,Past peak
+France,Burgundy/White,1987,84,82,83,83,Past peak
+France,Burgundy/White,1986,92,88,90,90,Past peak
+France,Burgundy/White,1985,94,90,92,92,Past peak
+France,Burgundy/White,1984,78,80,79,79,Past peak
+France,Burgundy/White,1983,86,85,85.5,86,Past peak
+France,Burgundy/White,1982,90,88,89,89,Past peak
+France,Burgundy/White,1981,85,86,85.5,86,Past peak
+France,Burgundy/White,1980,77,75,76,76,Past peak
+France,Burgundy/White,1979,90,88,89,89,Past peak
+France,Burgundy/White,1978,88,88,88,88,Past peak
+France,Burgundy/White,1976,87,86,86.5,87,Past peak
+France,Burgundy/White,1975,70,65,67.5,68,Past peak
+France,Burgundy/White,1971,88,88,88,88,Past peak
+France,Burgundy/White,1970,82,83,82.5,83,Past peak
+France,Champagne,2014,93,92,93,93,Drink or hold
+France,Champagne,2013,95,95,94,95,Hold
+France,Champagne,2012,94,96,95,95,Hold
+France,Champagne,2011,88,87,89,88,Drink 
+France,Champagne,2010,89,89,90,89,Drink
+France,Champagne,2009,93,92,94,93,Drink or hold
+France,Champagne,2008,95,99,98,97,Drink or hold
+France,Champagne,2007,89,80,91,87,Drink
+France,Champagne,2006,93,86,89,89,Drink or hold
+France,Champagne,2005,90,88,93,90,Drink
+France,Champagne,2004,92,90,95,92,Drink or hold
+France,Champagne,2003,88,88,86,87,Drink
+France,Champagne,2002,94,95,98,96,Drink or hold
+France,Champagne,2001,88,88,88,88,Drink or hold
+France,Champagne,2000,89,92,88,90,Drink or hold
+France,Champagne,1999,89,92,88,90,Drink
+France,Champagne,1998,91,93,90,91,Drink or hold
+France,Champagne,1997,87,90,87,88,Drink
+France,Champagne,1996,96,97,98,97,Drink or hold
+France,Champagne,1995,94,95,95,95,Drink or hold
+France,Champagne,1993,88,88,88,88,Drink
+France,Champagne,1990,97,93,95,95,Drink or hold
+France,Champagne,1989,94,95,94.5,95,Drink
+France,Champagne,1988,95,95,95,95,Drink
+France,Champagne,1985,96,95,95.5,96,Drink
+France,Champagne,1982,94,94,94,94,Drink
+France,Champagne,1979,97,95,96,96,Drink
+France,Champagne,1976,94,94,94,94,Drink
+France,Champagne,1975,91,93,92,92,Drink
+France,Champagne,1971,92,93,92.5,93,Drink
+France,Loire/Cabernet Franc,2017,90,91,97,93,Drink or hold
+France,Loire/Cabernet Franc,2016,92,90,93,92,Drink or hold
+France,Loire/Cabernet Franc,2015,90,90,96,92,Drink or hold
+France,Loire/Cabernet Franc,2014,87,88,95,90,Drink or hold
+France,Loire/Cabernet Franc,2013,83,79,88,83,Drink
+France,Loire/Cabernet Franc,2012,84,82,93,86,Drink
+France,Loire/Cabernet Franc,2011,88,88,93,90,Drink
+France,Loire/Cabernet Franc,2010,90,90,89,90,Drink or hold
+France,Loire/Cabernet Franc,2009,91,90,93,91,Drink or hold
+France,Loire/Cabernet Franc,2008,87,90,88,88,Drink
+France,Loire/Cabernet Franc,2007,83,85,89,86,Past peak
+France,Loire/Cabernet Franc,2006,84,84,88,85,Past peak
+France,Loire/Cabernet Franc,2005,91,91,93,92,Past peak
+France,Loire/Cabernet Franc,2004,88,88,88,88,Drink
+France,Loire/Cabernet Franc,2003,91,92,90,91,Past peak
+France,Loire/Cabernet Franc,2002,91,90,88,90,Drink
+France,Loire/Chenin Blanc,2018,93,93,94,93,Drink or hold
+France,Loire/Chenin Blanc,2017,92,92,94,93,Drink or hold
+France,Loire/Chenin Blanc,2016,94,91,93,93,Drink or hold
+France,Loire/Chenin Blanc,2015,92,92,97,94,Drink or hold
+France,Loire/Chenin Blanc,2014,86,91,96,91,Drink or hold
+France,Loire/Chenin Blanc,2013,86,80,87,84,Drink
+France,Loire/Chenin Blanc,2012,85,83,87,85,Drink
+France,Loire/Chenin Blanc,2011,88,86,95,90,Drink
+France,Loire/Chenin Blanc,2010,94,92,94,93,Drink or hold
+France,Loire/Chenin Blanc,2009,93,88,93,91,Drink or hold
+France,Loire/Chenin Blanc,2008,88,90,87,88,Drink
+France,Loire/Chenin Blanc,2007,90,87,95,91,Past peak
+France,Loire/Chenin Blanc,2006,84,83,89,85,Past peak
+France,Loire/Chenin Blanc,2004,89,82,95,89,Drink
+France,Loire/Chenin Blanc,2003,88,85,89,87,Past peak
+France,Loire/Chenin Blanc,2002,93,96,87,92,Drink
+France,Loire/Chenin Blanc,2001,84,82,93,86,Drink
+France,Loire/Chenin Blanc,2000,86,84,88,86,Drink
+France,Loire/Sauvignon Blanc,2018,89,93,95,92,Drink or hold
+France,Loire/Sauvignon Blanc,2017,91,92,95,93,Drink or hold
+France,Loire/Sauvignon Blanc,2016,92,91,96,93,Drink or hold
+France,Loire/Sauvignon Blanc,2015,90,92,96,93,Drink or hold
+France,Loire/Sauvignon Blanc,2014,86,91,95,91,Drink or hold
+France,Loire/Sauvignon Blanc,2013,83,80,90,84,Drink
+France,Loire/Sauvignon Blanc,2012,86,83,94,88,Drink
+France,Loire/Sauvignon Blanc,2011,84,86,92,87,Drink
+France,Loire/Sauvignon Blanc,2010,91,92,94,92,Drink or hold
+France,Loire/Sauvignon Blanc,2009,92,88,94,91,Drink or hold
+France,Loire/Sauvignon Blanc,2008,87,90,91,89,Drink
+France,Loire/Sauvignon Blanc,2007,84,87,92,88,Past peak
+France,Loire/Sauvignon Blanc,2006,85,83,88,85,Past peak
+France,Loire/Sauvignon Blanc,2005,92,90,94,92,Drink
+France,Loire/Sauvignon Blanc,2004,89,82,91,87,Drink
+France,Loire/Sauvignon Blanc,2003,85,85,89,86,Past peak
+France,Loire/Sauvignon Blanc,2002,93,96,92,94,Drink
+France,Loire/Sauvignon Blanc,2001,86,82,88,85,Drink
+France,Loire/Sauvignon Blanc,2000,88,84,84,85,Drink
+France,Rhône/Northern,2017,97,95,93,95,Hold
+France,Rhône/Northern,2016,97,92,95,95,Hold
+France,Rhône/Northern,2015,99,97,97,98,Hold
+France,Rhône/Northern,2014,89,87,87,88,Drink or hold
+France,Rhône/Northern,2013,91,89,88,89,Drink or hold
+France,Rhône/Northern,2012,92,91,92,92,Drink or hold
+France,Rhône/Northern,2011,92,92,91,92,Drink or hold
+France,Rhône/Northern,2010,98,97,95,97,Hold
+France,Rhône/Northern,2009,96,98,95,96,Drink or hold
+France,Rhône/Northern,2008,86,80,86,84,Drink
+France,Rhône/Northern,2007,91,89,87,89,Drink or hold
+France,Rhône/Northern,2006,92,92,91,92,Drink or hold
+France,Rhône/Northern,2005,94,89,94,92,Drink or hold
+France,Rhône/Northern,2004,90,85,87,87,Drink or hold
+France,Rhône/Northern,2003,94,96,93,94,Drink or hold
+France,Rhône/Northern,2002,82,80,83,82,Past peak
+France,Rhône/Northern,2001,89,89,92,90,Drink
+France,Rhône/Northern,2000,88,87,90,88,Drink
+France,Rhône/Northern,1999,96,95,93,95,Drink
+France,Rhône/Northern,1998,90,90,92,91,Drink
+France,Rhône/Northern,1997,88,90,91,90,Drink
+France,Rhône/Northern,1996,90,86,87,88,Drink
+France,Rhône/Northern,1995,91,90,91,91,Drink
+France,Rhône/Northern,1994,88,88,88,88,Past peak
+France,Rhône/Northern,1993,60,58,59,59,Past peak
+France,Rhône/Northern,1992,80,78,79,79,Drink
+France,Rhône/Northern,1991,92,92,92,92,Drink
+France,Rhône/Northern,1990,92,92,92,92,Drink
+France,Rhône/Northern,1989,93,92,92.5,93,Drink
+France,Rhône/Northern,1988,91,92,91.5,92,Drink
+France,Rhône/Northern,1987,85,86,85.5,86,Drink
+France,Rhône/Northern,1986,85,84,84.5,85,Past peak
+France,Rhône/Northern,1985,90,90,90,90,Drink
+France,Rhône/Northern,1984,77,75,76,76,Past peak
+France,Rhône/Northern,1983,90,89,89.5,90,Past peak
+France,Rhône/Northern,1982,86,85,85.5,86,Past peak
+France,Rhône/Northern,1981,75,75,75,75,Past peak
+France,Rhône/Northern,1980,81,83,82,82,Past peak
+France,Rhône/Northern,1978,95,98,96.5,97,Drink
+France,Rhône/Northern,1976,84,82,83,83,Drink
+France,Rhône/Northern,1971,86,84,85,85,Drink
+France,Rhône/Northern,1970,91,90,90.5,91,Drink
+France,Rhône/Southern,2017,92,94,93,93,Hold
+France,Rhône/Southern,2016,99,98,97,98,Drink or hold
+France,Rhône/Southern,2015,97,93,95,95,Hold
+France,Rhône/Southern,2014,88,87,89,88,Hold
+France,Rhône/Southern,2013,89,88,88,88,Drink or hold
+France,Rhône/Southern,2012,93,92,92,92,Drink or hold
+France,Rhône/Southern,2011,91,90,91,91,Drink or hold
+France,Rhône/Southern,2010,98,98,98,98,Hold
+France,Rhône/Southern,2009,94,93,93,93,Drink or hold
+France,Rhône/Southern,2008,88,87,85,87,Drink
+France,Rhône/Southern,2007,95,98,96,96,Drink or hold
+France,Rhône/Southern,2006,93,92,90,92,Drink or hold
+France,Rhône/Southern,2005,97,95,92,95,Drink or hold
+France,Rhône/Southern,2004,93,90,90,91,Drink
+France,Rhône/Southern,2003,93,90,90,91,Drink
+France,Rhône/Southern,2002,76,65,70.5,71,Past peak
+France,Rhône/Southern,2001,94,96,93,94,Drink or hold
+France,Rhône/Southern,2000,93,98,90,94,Drink
+France,Rhône/Southern,1999,90,90,89,90,Drink
+France,Rhône/Southern,1998,97,98,96,97,Drink
+France,Rhône/Southern,1997,81,82,85,83,Past peak
+France,Rhône/Southern,1996,80,82,85,82,Past peak
+France,Rhône/Southern,1995,90,90,93,91,Drink
+France,Rhône/Southern,1994,88,86,87,87,Drink
+France,Rhône/Southern,1993,85,85,85,85,Drink
+France,Rhône/Southern,1992,82,78,80,80,Past peak
+France,Rhône/Southern,1991,72,65,68.5,69,Past peak
+France,Rhône/Southern,1990,97,95,96,96,Drink
+France,Rhône/Southern,1989,95,94,94.5,95,Drink
+France,Rhône/Southern,1988,88,88,88,88,Drink
+France,Rhône/Southern,1985,88,88,88,88,Drink
+France,Rhône/Southern,1978,95,97,96,96,Drink
+Germany,Riesling,2018,93,93,92,93,Drink or hold
+Germany,Riesling,2017,94,94,92,93,Drink or hold
+Germany,Riesling,2016,93,91,91,92,Drink or hold
+Germany,Riesling,2015,96,92,94,94,Drink or hold
+Germany,Riesling,2014,91,86,90,89,Drink or hold
+Germany,Riesling,2013,89,85,90,88,Drink or hold
+Germany,Riesling,2012,94,90,92,92,Drink or hold
+Germany,Riesling,2011,95,94,92,94,Drink or hold
+Germany,Riesling,2010,93,88,92,91,Drink or hold
+Germany,Riesling,2009,97,94,94,95,Drink or hold
+Germany,Riesling,2008,92,88,89,90,Drink or hold
+Germany,Riesling,2007,95,92,95,94,Drink or hold
+Germany,Riesling,2006,92,86,93,90,Drink or hold
+Germany,Riesling,2005,98,92,94,95,Drink or hold
+Germany,Riesling,2004,91,93,89,91,Drink or hold
+Germany,Riesling,2003,94,89,92,92,Drink or hold
+Germany,Riesling,2002,93,92,92,92,Drink or hold
+Germany,Riesling,2001,98,95,95,96,Drink or hold
+Germany,Riesling,2000,82,70,85,79,Drink
+Germany,Riesling,1999,90,87,90,89,Drink or hold
+Germany,Riesling,1998,89,93,89,90,Drink or hold
+Germany,Riesling,1997,88,87,88,88,Drink or hold
+Germany,Riesling,1996,89,91,94,91,Drink or hold
+Germany,Riesling,1995,88,86,90,88,Drink
+Germany,Riesling,1990,97,96,96.5,97,Drink or hold
+Germany,Riesling,1989,92,90,91,91,Drink
+Germany,Riesling,1988,93,90,91.5,92,Drink
+Germany,Riesling,1987,86,84,85,85,Drink
+Germany,Riesling,1986,86,84,85,85,Past peak
+Germany,Riesling,1985,87,86,86.5,87,Past peak
+Germany,Riesling,1983,93,87,90,90,Past peak
+Germany,Riesling,1976,96,92,94,94,Drink
+Germany,Riesling,1975,90,92,91,91,Drink
+Germany,Riesling,1971,95,98,96.5,97,Drink
+Italy,Piedmont,2016,90,96,94,93,Drink or Hold
+Italy,Piedmont,2015,95,92,93,93,Drink or Hold
+Italy,Piedmont,2014,92,90,90,91,Drink or hold
+Italy,Piedmont,2013,97,90,93,93,Hold
+Italy,Piedmont,2012,94,94,93,94,Drink or hold
+Italy,Piedmont,2011,93,89,92,91,Drink or hold
+Italy,Piedmont,2010,97,97,98,97,Hold
+Italy,Piedmont,2009,90,95,94,93,Drink
+Italy,Piedmont,2008,94,90,92,92,Drink or hold
+Italy,Piedmont,2007,95,94,94,94,Drink or hold
+Italy,Piedmont,2006,95,96,95,95,Drink or hold
+Italy,Piedmont,2005,91,92,89,91,Drink
+Italy,Piedmont,2004,94,94,96,95,Drink or hold
+Italy,Piedmont,2003,88,82,86,85,Drink
+Italy,Piedmont,2002,72,72,82,75,Past peak
+Italy,Piedmont,2001,95,96,97,96,Drink or hold
+Italy,Piedmont,2000,93,95,95,94,Drink
+Italy,Piedmont,1999,94,93,92,93,Drink or hold
+Italy,Piedmont,1998,91,92,95,93,Drink
+Italy,Piedmont,1997,93,93,93,93,Drink
+Italy,Piedmont,1996,98,97,97,97,Drink or hold
+Italy,Piedmont,1995,88,87,88,88,Drink
+Italy,Tuscany/Bolgheri,2018,90,88,88,89,Hold
+Italy,Tuscany/Bolgheri,2017,89,87,88,88,Drink or hold
+Italy,Tuscany/Bolgheri,2016,96,96,91,94,Drink or hold
+Italy,Tuscany/Bolgheri,2015,97,95,91,94,Drink or hold
+Italy,Tuscany/Bolgheri,2014,89,86,85,87,Drink or hold
+Italy,Tuscany/Bolgheri,2013,94,95,91,93,Drink or hold
+Italy,Tuscany/Bolgheri,2012,90,89,93,91,Drink or hold
+Italy,Tuscany/Bolgheri,2011,95,88,93,92,Drink or hold
+Italy,Tuscany/Bolgheri,2010,90,94,96,93,Drink or hold
+Italy,Tuscany/Bolgheri,2009,91,97,95,94,Drink
+Italy,Tuscany/Bolgheri,2008,93,92,93,93,Drink
+Italy,Tuscany/Bolgheri,2007,95,94,94,94,Drink
+Italy,Tuscany/Bolgheri,2006,96,97,93,95,Drink
+Italy,Tuscany/Bolgheri,2005,91,93,93,92,Drink
+Italy,Tuscany/Bolgheri,2004,92,95,94,94,Drink
+Italy,Tuscany/Bolgheri,2003,88,78,90,85,Drink
+Italy,Tuscany/Bolgheri,2002,85,80,83,83,Drink
+Italy,Tuscany/Bolgheri,2001,96,94,97,96,Drink
+Italy,Tuscany/Bolgheri,2000,89,92,89,90,Drink
+Italy,Tuscany/Bolgheri,1999,93,94,90,92,Drink
+Italy,Tuscany/Bolgheri,1998,98,94,93,95,Drink
+Italy,Tuscany/Bolgheri,1997,97,97,90,95,Drink
+Italy,Tuscany/Bolgheri,1996,90,89,90,90,Drink
+Italy,Tuscany/Bolgheri,1995,90,90,93,91,Drink
+Italy,Tuscany/Brunello di Montalcino,2016,97,98,93,96,Drink or hold
+Italy,Tuscany/Brunello di Montalcino,2015,95,97,91,94,Drink or hold
+Italy,Tuscany/Brunello di Montalcino,2014,89,87,83,86,Drink or hold
+Italy,Tuscany/Brunello di Montalcino,2013,94,97,91,94,Drink or hold
+Italy,Tuscany/Brunello di Montalcino,2012,96,90,92,93,Drink or hold
+Italy,Tuscany/Brunello di Montalcino,2011,91,91,93,92,Drink
+Italy,Tuscany/Brunello di Montalcino,2010,98,98,98,98,Hold
+Italy,Tuscany/Brunello di Montalcino,2009,89,93,95,92,Drink
+Italy,Tuscany/Brunello di Montalcino,2008,91,93,92,92,Drink or hold
+Italy,Tuscany/Brunello di Montalcino,2007,93,96,97,95,Drink or hold
+Italy,Tuscany/Brunello di Montalcino,2006,95,97,97,96,Drink or hold
+Italy,Tuscany/Brunello di Montalcino,2005,89,88,92,90,Drink
+Italy,Tuscany/Brunello di Montalcino,2004,97,95,94,95,Drink or hold
+Italy,Tuscany/Brunello di Montalcino,2003,88,84,87,86,Drink
+Italy,Tuscany/Brunello di Montalcino,2002,78,75,83,79,Past peak
+Italy,Tuscany/Brunello di Montalcino,2001,98,94,91,94,Drink
+Italy,Tuscany/Brunello di Montalcino,2000,88,93,89,90,Drink
+Italy,Tuscany/Brunello di Montalcino,1999,97,95,94,95,Drink
+Italy,Tuscany/Brunello di Montalcino,1998,91,88,90,90,Drink
+Italy,Tuscany/Brunello di Montalcino,1997,99,95,98,97,Drink
+Italy,Tuscany/Brunello di Montalcino,1996,85,88,86,86,Drink
+Italy,Tuscany/Brunello di Montalcino,1995,92,93,96,94,Drink
+Italy,Tuscany/Chianti and Chianti Classico,2018,90,88,88,89,Hold
+Italy,Tuscany/Chianti and Chianti Classico,2017,90,87,88,88,Drink or hold
+Italy,Tuscany/Chianti and Chianti Classico,2016,97,97,92,95,Drink or hold
+Italy,Tuscany/Chianti and Chianti Classico,2015,97,95,92,95,Drink or hold
+Italy,Tuscany/Chianti and Chianti Classico,2014,88,88,83,86,Drink or hold
+Italy,Tuscany/Chianti and Chianti Classico,2013,93,96,91,93,Drink or hold
+Italy,Tuscany/Chianti and Chianti Classico,2012,89,89,91,90,Drink or hold
+Italy,Tuscany/Chianti and Chianti Classico,2011,93,88,92,91,Drink or hold
+Italy,Tuscany/Chianti and Chianti Classico,2010,92,96,96,95,Drink or hold
+Italy,Tuscany/Chianti and Chianti Classico,2009,89,94,94,92,Drink
+Italy,Tuscany/Chianti and Chianti Classico,2008,89,90,93,91,Drink
+Italy,Tuscany/Chianti and Chianti Classico,2007,94,93,94,94,Drink
+Italy,Tuscany/Chianti and Chianti Classico,2006,93,96,93,94,Drink
+Italy,Tuscany/Chianti and Chianti Classico,2005,88,89,91,89,Drink
+Italy,Tuscany/Chianti and Chianti Classico,2004,89,93,93,92,Drink
+Italy,Tuscany/Chianti and Chianti Classico,2003,91,86,91,89,Drink
+Italy,Tuscany/Chianti and Chianti Classico,2002,79,75,83,79,Past peak
+Italy,Tuscany/Chianti and Chianti Classico,2001,92,93,95,93,Drink
+Italy,Tuscany/Chianti and Chianti Classico,2000,88,90,91,90,Drink
+Italy,Tuscany/Chianti and Chianti Classico,1999,94,94,96,95,Drink
+Italy,Tuscany/Chianti and Chianti Classico,1998,89,88,91,89,Drink
+Italy,Tuscany/Chianti and Chianti Classico,1997,97,95,97,96,Drink
+Italy,Tuscany/Chianti and Chianti Classico,1996,90,88,90,89,Drink
+Italy,Tuscany/Chianti and Chianti Classico,1995,88,89,96,91,Drink
+New Zealand,Pinot Noir,2018,91,90,89,90,Drink or hold
+New Zealand,Pinot Noir,2017,90,86,90,89,Drink or hold
+New Zealand,Pinot Noir,2016,93,92,92,92,Drink or hold
+New Zealand,Pinot Noir,2015,92,86,91,90,Drink or hold
+New Zealand,Pinot Noir,2014,91,88,90,90,Drink or hold
+New Zealand,Pinot Noir,2013,92,90,93,92,Drink or hold
+New Zealand,Pinot Noir,2012,91,91,89,90,Drink or hold
+New Zealand,Pinot Noir,2011,90,88,94,91,Drink
+New Zealand,Pinot Noir,2010,92,91,91,91,Drink
+New Zealand,Pinot Noir,2009,88,89,92,90,Drink
+New Zealand,Pinot Noir,2008,85,81,88,85,Drink
+New Zealand,Pinot Noir,2007,89,91,93,91,Drink
+New Zealand,Pinot Noir,2006,85,90,88,88,Drink
+New Zealand,Pinot Noir,2005,89,86,93,89,Drink
+New Zealand,Pinot Noir,2004,85,83,87,85,Drink
+New Zealand,Pinot Noir,2003,84,78,88,83,Drink
+New Zealand,Pinot Noir,2002,85,87,91,88,Drink
+New Zealand,Pinot Noir,2001,85,80,88,84,Drink
+New Zealand,Pinot Noir,1998,90,90,87,89,Drink
+Portugal,Douro Valley Reds,2017,94,95,95,95,Hold
+Portugal,Douro Valley Reds,2016,94,92,96,94,Hold
+Portugal,Douro Valley Reds,2015,93,92,96,94,Drink or hold
+Portugal,Douro Valley Reds,2014,88,85,89,87,Drink or hold
+Portugal,Douro Valley Reds,2013,89,89,89,89,Drink or hold
+Portugal,Douro Valley Reds,2012,90,88,94,91,Drink or hold
+Portugal,Douro Valley Reds,2011,97,94,95,95,Drink or hold
+Portugal,Douro Valley Reds,2010,89,88,93,90,Drink
+Portugal,Douro Valley Reds,2009,91,91,95,92,Drink
+Portugal,Douro Valley Reds,2008,94,89,90,91,Drink or hold
+Portugal,Douro Valley Reds,2007,96,93,94,94,Drink
+Portugal,Douro Valley Reds,2006,90,83,88,87,Drink
+Portugal,Douro Valley Reds,2005,94,90,91,92,Drink
+Portugal,Douro Valley Reds,2004,93,93,89,92,Drink
+Portugal,Douro Valley Reds,2003,91,89,92,91,Drink
+Portugal,Douro Valley Reds,2002,81,80,83,81,Past peak
+Portugal,Douro Valley Reds,2001,89,89,85,88,Drink
+Portugal,Douro Valley Reds,2000,94,94,90,93,Drink
+Portugal,Vintage Port,2017,98,97,96,97,Hold
+Portugal,Vintage Port,2016,96,93,99,96,Hold
+Portugal,Vintage Port,2015,93,91,96,93,Hold
+Portugal,Vintage Port,2014,89,85,88,87,Hold
+Portugal,Vintage Port,2013,90,89,89,89,Drink or hold
+Portugal,Vintage Port,2012,88,88,90,89,Drink or hold
+Portugal,Vintage Port,2011,99,98,100,99,Hold
+Portugal,Vintage Port,2010,91,91,92,91,Hold
+Portugal,Vintage Port,2009,91,91,96,93,Hold
+Portugal,Vintage Port,2008,90,89,89,89,Drink
+Portugal,Vintage Port,2007,98,96,93,96,Hold
+Portugal,Vintage Port,2003,98,94,89,94,Hold
+Portugal,Vintage Port,2000,97,92,91,93,Hold
+Portugal,Vintage Port,1997,96,90,93,93,Drink or hold
+Portugal,Vintage Port,1995,92,92,91,92,Drink or hold
+Portugal,Vintage Port,1994,99,96,97.5,98,Drink or hold
+Portugal,Vintage Port,1992,94,95,94.5,95,Drink or hold
+Portugal,Vintage Port,1991,93,909,501,501,Drink or hold
+Portugal,Vintage Port,1987,88,90,89,89,Drink
+Portugal,Vintage Port,1985,93,92,92.5,93,Drink
+Portugal,Vintage Port,1983,92,92,92,92,Drink or hold
+Portugal,Vintage Port,1982,84,86,85,85,Drink
+Portugal,Vintage Port,1980,90,84,87,87,Drink or hold
+Portugal,Vintage Port,1978,84,83,83.5,84,Past peak
+Portugal,Vintage Port,1977,97,95,96,96,Drink or hold
+Portugal,Vintage Port,1975,80,82,81,81,Past peak
+Portugal,Vintage Port,1970,95,92,93.5,94,Drink
+Portugal,Vintage Port,1967,88,88,88,88,Drink
+Portugal,Vintage Port,1966,93,92,92.5,93,Drink or hold
+Portugal,Vintage Port,1963,98,96,97,97,Drink or hold
+South Africa,South Africa,2017,93,96,95,95,Drink or hold
+South Africa,South Africa,2016,88,91,91,90,Drink or hold
+South Africa,South Africa,2015,93,96,95,95,Drink or hold
+South Africa,South Africa,2014,87,92,88,89,Drink
+South Africa,South Africa,2013,89,93,89,90,Drink
+South Africa,South Africa,2012,91,91,90,91,Drink or hold
+South Africa,South Africa,2011,90,89,89,89,Drink
+South Africa,South Africa,2010,87,91,87,88,Drink
+South Africa,South Africa,2009,93,93,94,93,Drink
+South Africa,South Africa,2008,87,88,88,88,Drink
+South Africa,South Africa,2007,88,90,91,90,Drink
+South Africa,South Africa,2006,90,92,92,91,Drink
+South Africa,South Africa,2005,93,87,90,90,Drink
+South Africa,South Africa,2004,87,88,89,88,Drink
+South Africa,South Africa,2003,91,90,93,91,Drink
+South Africa,South Africa,2002,84,85,87,85,Past peak
+South Africa,South Africa,2001,91,92,92,92,Drink
+South Africa,South Africa,2000,90,90,93,91,Drink
+South Africa,South Africa,1999,87,89,92,89,Past peak
+Spain,Priorat,2018,90,91,85,89,Drink or hold
+Spain,Priorat,2017,90,94,87,90,Drink or hold
+Spain,Priorat,2016,94,92,93,93,Drink or hold
+Spain,Priorat,2015,93,92,92,92,Drink or hold
+Spain,Priorat,2014,90,93,87,90,Drink or hold
+Spain,Priorat,2013,91,97,88,92,Drink
+Spain,Priorat,2012,91,91,89,90,Drink
+Spain,Priorat,2011,88,88,91,89,Drink
+Spain,Priorat,2010,94,95,92,94,Drink
+Spain,Priorat,2009,90,90,90,90,Drink
+Spain,Priorat,2008,87,91,87,88,Drink
+Spain,Priorat,2007,89,90,85,88,Drink
+Spain,Priorat,2006,90,88,87,88,Drink
+Spain,Priorat,2005,93,94,94,94,Drink or hold
+Spain,Priorat,2004,93,94,91,93,Drink or hold
+Spain,Priorat,2003,89,90,86,88,Drink
+Spain,Priorat,2002,89,89,85,88,Drink
+Spain,Priorat,2001,95,95,93,94,Drink or hold
+Spain,Priorat,2000,92,90,89,90,Drink
+Spain,Ribera del Duero,2018,93,95,87,92,Drink or hold
+Spain,Ribera del Duero,2017,86,90,87,88,Drink or hold
+Spain,Ribera del Duero,2016,93,96,93,94,Drink or hold
+Spain,Ribera del Duero,2015,92,92,93,92,Drink or hold
+Spain,Ribera del Duero,2014,92,93,85,90,Drink or hold
+Spain,Ribera del Duero,2013,84,90,84,86,Drink
+Spain,Ribera del Duero,2012,91,93,91,92,Drink or hold
+Spain,Ribera del Duero,2011,91,89,93,91,Drink or hold
+Spain,Ribera del Duero,2010,94,96,95,95,Drink or hold
+Spain,Ribera del Duero,2009,92,94,92,93,Drink or hold
+Spain,Ribera del Duero,2008,87,91,85,88,Drink
+Spain,Ribera del Duero,2007,86,90,85,87,Drink
+Spain,Ribera del Duero,2006,88,88,88,88,Drink
+Spain,Ribera del Duero,2005,95,93,94,94,Drink or hold
+Spain,Ribera del Duero,2004,96,95,92,94,Drink or hold
+Spain,Ribera del Duero,2003,89,88,84,87,Drink
+Spain,Ribera del Duero,2002,85,80,86,84,Drink
+Spain,Ribera del Duero,2001,94,95,93,94,Drink or hold
+Spain,Ribera del Duero,2000,92,87,88,89,Drink
+Spain,Ribera del Duero,1999,90,88,89,89,Past peak
+Spain,Ribera del Duero,1998,90,88,88,89,Drink or hold
+Spain,Ribera del Duero,1997,86,86,87,86,Drink
+Spain,Ribera del Duero,1996,90,92,89,90,Drink
+Spain,Ribera del Duero,1995,90,90,95,92,Drink
+Spain,Rioja,2018,90,94,86,90,Drink or hold
+Spain,Rioja,2017,86,93,86,88,Drink or hold
+Spain,Rioja,2016,91,95,95,94,Drink or hold
+Spain,Rioja,2015,91,94,92,92,Drink or hold
+Spain,Rioja,2014,89,91,84,88,Drink or hold
+Spain,Rioja,2013,89,90,85,88,Drink
+Spain,Rioja,2012,90,92,92,91,Drink or hold
+Spain,Rioja,2011,89,88,93,90,Drink
+Spain,Rioja,2010,94,95,97,95,Drink or hold
+Spain,Rioja,2009,91,92,91,91,Drink or hold
+Spain,Rioja,2008,88,90,86,88,Drink
+Spain,Rioja,2007,84,89,86,86,Drink
+Spain,Rioja,2006,82,85,88,85,Drink
+Spain,Rioja,2005,93,92,93,93,Drink or hold
+Spain,Rioja,2004,93,95,94,94,Drink or hold
+Spain,Rioja,2003,86,87,84,86,Drink
+Spain,Rioja,2002,84,76,84,81,Past peak
+Spain,Rioja,2001,93,94,95,94,Drink or hold
+Spain,Rioja,2000,85,86,87,86,Drink
+Spain,Rioja,1999,86,86,90,87,Drink
+Spain,Rioja,1998,81,82,88,84,Past peak
+Spain,Rioja,1997,86,86,85,86,Drink
+Spain,Rioja,1996,88,87,89,88,Drink
+Spain,Rioja,1995,91,90,95,92,Drink
+United States,California/Cabernet/Napa,2017,91,86,90,89,Hold
+United States,California/Cabernet/Napa,2016,98,98,95,97,Hold
+United States,California/Cabernet/Napa,2015,94,97,95,95,Drink or hold
+United States,California/Cabernet/Napa,2014,95,93,94,94,Drink or hold
+United States,California/Cabernet/Napa,2013,97,98,95,97,Drink or hold
+United States,California/Cabernet/Napa,2012,96,96,95,96,Drink or hold
+United States,California/Cabernet/Napa,2011,86,82,89,86,Drink or hold
+United States,California/Cabernet/Napa,2010,96,95,89,93,Drink or hold
+United States,California/Cabernet/Napa,2009,96,94,89,93,Drink or hold
+United States,California/Cabernet/Napa,2008,96,94,92,94,Drink or hold
+United States,California/Cabernet/Napa,2007,97,96,95,96,Drink or hold
+United States,California/Cabernet/Napa,2006,95,91,90,92,Drink
+United States,California/Cabernet/Napa,2005,92,95,95,94,Drink
+United States,California/Cabernet/Napa,2004,95,91,90,92,Drink
+United States,California/Cabernet/Napa,2003,85,92,90,89,Drink
+United States,California/Cabernet/Napa,2002,93,95,93,94,Drink
+United States,California/Cabernet/Napa,2001,93,96,98,96,Drink
+United States,California/Cabernet/Napa,2000,85,78,85,83,Drink
+United States,California/Cabernet/Napa,1999,97,93,93,94,Drink
+United States,California/Cabernet/Napa,1998,84,85,85,85,Past peak
+United States,California/Cabernet/Napa,1997,99,94,96,96,Drink
+United States,California/Cabernet/Napa,1996,96,90,93,93,Drink
+United States,California/Cabernet/Napa,1995,97,94,95,95,Drink
+United States,California/Cabernet/Napa,1994,97,95,96,96,Drink
+United States,California/Cabernet/Napa,1993,88,90,89,89,Drink
+United States,California/Cabernet/Napa,1992,93,90,91.5,92,Drink
+United States,California/Cabernet/Napa,1991,91,94,92.5,93,Drink
+United States,California/Cabernet/Napa,1990,90,94,92,92,Drink
+United States,California/Chardonnay/Carneros,2018,92,92,92,92,Drink
+United States,California/Chardonnay/Carneros,2017,94,94,92,93,Drink
+United States,California/Chardonnay/Carneros,2016,90,90,92,91,Drink
+United States,California/Chardonnay/Carneros,2015,90,90,90,90,Drink
+United States,California/Chardonnay/Carneros,2014,92,92,94,93,Drink
+United States,California/Chardonnay/Carneros,2013,93,93,93,93,Drink
+United States,California/Chardonnay/Carneros,2012,90,90,92,91,Drink
+United States,California/Chardonnay/Carneros,2011,86,86,88,87,Drink
+United States,California/Chardonnay/Carneros,2010,88,88,88,88,Drink
+United States,California/Chardonnay/Carneros,2009,90,90,87,89,Drink
+United States,California/Chardonnay/Carneros,2008,89,89,89,89,Drink
+United States,California/Chardonnay/Carneros,2007,96,96,91,94,Drink
+United States,California/Chardonnay/Carneros,2006,90,90,85,88,Drink
+United States,California/Chardonnay/Carneros,2005,83,83,87,84,Drink
+United States,California/Chardonnay/Carneros,2004,92,92,92,92,Drink
+United States,California/Chardonnay/Carneros,2003,90,90,91,90,Drink
+United States,California/Chardonnay/Carneros,2002,96,96,95,96,Drink
+United States,California/Chardonnay/Carneros,2001,93,93,93,93,Drink
+United States,California/Chardonnay/Carneros,2000,96,96,89,94,Drink
+United States,California/Chardonnay/Carneros,1999,89,89,89,89,Drink
+United States,California/Chardonnay/Carneros,1998,84,84,85,84,Drink
+United States,California/Chardonnay/Carneros,1997,98,98,91,96,Drink
+United States,California/Chardonnay/Carneros,1996,96,96,90,94,Drink
+United States,California/Chardonnay/Napa,2018,90,90,93,91,Drink
+United States,California/Chardonnay/Napa,2017,90,94,90,91,Drink
+United States,California/Chardonnay/Napa,2016,89,94,94,92,Drink
+United States,California/Chardonnay/Napa,2015,89,96,90,92,Drink
+United States,California/Chardonnay/Napa,2014,92,94,92,93,Drink
+United States,California/Chardonnay/Napa,2013,93,93,91,92,Drink
+United States,California/Chardonnay/Napa,2012,94,94,91,93,Drink
+United States,California/Chardonnay/Napa,2011,89,88,87,88,Drink
+United States,California/Chardonnay/Napa,2010,92,91,87,90,Drink
+United States,California/Chardonnay/Napa,2009,94,90,88,91,Drink
+United States,California/Chardonnay/Napa,2008,88,88,87,88,Drink
+United States,California/Chardonnay/Napa,2007,95,92,90,92,Drink
+United States,California/Chardonnay/Napa,2006,88,87,86,87,Drink
+United States,California/Chardonnay/Napa,2005,89,94,86,90,Drink
+United States,California/Chardonnay/Napa,2004,92,92,85,90,Drink
+United States,California/Chardonnay/Napa,2003,89,91,85,88,Drink
+United States,California/Chardonnay/Napa,2002,94,90,90,91,Drink
+United States,California/Chardonnay/Napa,2001,87,90,90,89,Drink
+United States,California/Chardonnay/Napa,2000,87,87,88,87,Drink
+United States,California/Chardonnay/Napa,1999,87,89,88,88,Drink
+United States,California/Chardonnay/Napa,1998,84,89,87,87,Drink
+United States,California/Chardonnay/Napa,1997,96,92,94,94,Drink
+United States,California/Chardonnay/Napa,1996,95,90,90,92,Drink
+United States,California/Chardonnay/Napa,1995,92,92,92,92,Drink
+United States,California/Chardonnay/Santa Barbara,2018,93,93,93,93,Drink
+United States,California/Chardonnay/Santa Barbara,2017,91,91,93,92,Drink
+United States,California/Chardonnay/Santa Barbara,2016,89,89,93,90,Drink
+United States,California/Chardonnay/Santa Barbara,2015,90,90,92,91,Drink
+United States,California/Chardonnay/Santa Barbara,2014,87,87,93,89,Drink
+United States,California/Chardonnay/Santa Barbara,2013,88,88,93,90,Drink
+United States,California/Chardonnay/Santa Barbara,2012,88,88,93,90,Drink
+United States,California/Chardonnay/Santa Barbara,2011,85,85,92,87,Drink
+United States,California/Chardonnay/Santa Barbara,2010,87,87,92,89,Drink
+United States,California/Chardonnay/Santa Barbara,2009,91,91,90,91,Drink
+United States,California/Chardonnay/Santa Barbara,2008,91,90,91,91,Drink
+United States,California/Chardonnay/Santa Barbara,2007,89,89,92,90,Drink
+United States,California/Chardonnay/Santa Barbara,2006,82,82,90,85,Drink
+United States,California/Chardonnay/Santa Barbara,2005,86,86,89,87,Drink
+United States,California/Chardonnay/Santa Barbara,2004,89,89,92,90,Drink
+United States,California/Chardonnay/Santa Barbara,2003,88,88,92,89,Drink
+United States,California/Chardonnay/Santa Barbara,2002,92,92,94,93,Drink
+United States,California/Chardonnay/Santa Barbara,2001,89,89,91,90,Drink
+United States,California/Chardonnay/Santa Barbara,2000,86,86,88,87,Drink
+United States,California/Chardonnay/Santa Barbara,1999,93,93,91,92,Drink
+United States,California/Chardonnay/Santa Barbara,1998,83,83,88,85,Drink
+United States,California/Chardonnay/Santa Barbara,1997,96,96,95,96,Drink
+United States,California/Chardonnay/Santa Barbara,1996,98,98,90,95,Drink
+United States,California/Chardonnay/Sonoma,2018,95,95,94,95,Drink
+United States,California/Chardonnay/Sonoma,2017,93,93,94,93,Drink
+United States,California/Chardonnay/Sonoma,2016,90,90,91,90,Drink
+United States,California/Chardonnay/Sonoma,2015,90,90,89,90,Drink
+United States,California/Chardonnay/Sonoma,2014,92,92,91,92,Drink
+United States,California/Chardonnay/Sonoma,2013,93,93,93,93,Drink
+United States,California/Chardonnay/Sonoma,2012,93,93,94,93,Drink
+United States,California/Chardonnay/Sonoma,2011,87,87,88,87,Drink
+United States,California/Chardonnay/Sonoma,2010,92,92,91,92,Drink
+United States,California/Chardonnay/Sonoma,2009,95,95,94,95,Drink
+United States,California/Chardonnay/Sonoma,2007,96,96,92,95,Drink
+United States,California/Chardonnay/Sonoma,2006,94,94,92,93,Drink
+United States,California/Chardonnay/Sonoma,2005,95,95,94,95,Drink
+United States,California/Chardonnay/Sonoma,2004,99,99,98,99,Drink
+United States,California/Chardonnay/Sonoma,2003,88,88,89,88,Drink
+United States,California/Chardonnay/Sonoma,2002,99,99,98,99,Drink
+United States,California/Chardonnay/Sonoma,2001,94,94,92,93,Drink
+United States,California/Chardonnay/Sonoma,2000,89,89,90,89,Drink
+United States,California/Chardonnay/Sonoma,1999,94,94,95,94,Drink
+United States,California/Chardonnay/Sonoma,1998,86,86,87,86,Drink
+United States,California/Chardonnay/Sonoma,1997,95,95,95,95,Drink
+United States,California/Chardonnay/Sonoma,1996,95,95,95,95,Drink
+United States,California/Merlot/Napa,2016,94,94,95,94,Drink or hold
+United States,California/Merlot/Napa,2015,91,91,92,91,Drink or hold
+United States,California/Merlot/Napa,2014,92,92,93,92,Drink or hold
+United States,California/Merlot/Napa,2013,90,90,93,91,Drink or hold
+United States,California/Merlot/Napa,2012,91,91,88,90,Drink
+United States,California/Merlot/Napa,2011,87,87,90,88,Drink
+United States,California/Merlot/Napa,2010,87,87,86,87,Drink
+United States,California/Merlot/Napa,2009,94,94,96,95,Drink or hold
+United States,California/Merlot/Napa,2008,89,89,90,89,Drink
+United States,California/Merlot/Napa,2007,89,89,87,88,Drink
+United States,California/Merlot/Napa,2006,92,92,94,93,Drink
+United States,California/Merlot/Napa,2005,89,89,89,89,Drink
+United States,California/Merlot/Napa,2004,87,87,89,88,Drink
+United States,California/Merlot/Napa,2003,85,85,87,86,Past peak
+United States,California/Merlot/Napa,2002,89,89,88,89,Past peak
+United States,California/Merlot/Napa,2001,87,87,87,87,Past peak
+United States,California/Merlot/Napa,2000,83,83,87,84,Past peak
+United States,California/Merlot/Napa,1999,87,87,90,88,Past peak
+United States,California/Merlot/Napa,1998,82,82,79,81,Past peak
+United States,California/Merlot/Napa,1997,86,86,83,85,Past peak
+United States,California/Merlot/Napa,1996,88,88,90,89,Past peak
+United States,California/Merlot/Sonoma,2016,94,94,92,93,Drink or hold
+United States,California/Merlot/Sonoma,2015,88,88,86,87,Drink or hold
+United States,California/Merlot/Sonoma,2014,89,89,90,89,Drink or hold
+United States,California/Merlot/Sonoma,2013,88,88,90,89,Drink or hold
+United States,California/Merlot/Sonoma,2012,89,89,88,89,Drink
+United States,California/Merlot/Sonoma,2011,83,83,85,84,Drink
+United States,California/Merlot/Sonoma,2010,84,84,88,85,Drink
+United States,California/Merlot/Sonoma,2009,86,86,88,87,Drink or hold
+United States,California/Merlot/Sonoma,2008,85,85,82,84,Drink
+United States,California/Merlot/Sonoma,2007,85,85,87,86,Drink
+United States,California/Merlot/Sonoma,2006,85,85,87,86,Drink
+United States,California/Merlot/Sonoma,2005,89,89,92,90,Drink
+United States,California/Merlot/Sonoma,2004,88,88,85,87,Drink
+United States,California/Merlot/Sonoma,2003,80,80,82,81,Past peak
+United States,California/Merlot/Sonoma,2002,81,81,84,82,Past peak
+United States,California/Merlot/Sonoma,2001,83,83,87,84,Past peak
+United States,California/Merlot/Sonoma,2000,80,80,76,79,Past peak
+United States,California/Merlot/Sonoma,1999,81,81,76,79,Past peak
+United States,California/Merlot/Sonoma,1998,79,79,76,78,Past peak
+United States,California/Merlot/Sonoma,1997,86,86,89,87,Past peak
+United States,California/Merlot/Sonoma,1996,82,82,84,83,Past peak
+United States,California/Pinot Noir/Anderson Valley,2017,88,88,90,89,Drink or hold
+United States,California/Pinot Noir/Anderson Valley,2016,92,92,94,93,Drink or hold
+United States,California/Pinot Noir/Anderson Valley,2015,87,87,94,89,Drink or hold
+United States,California/Pinot Noir/Anderson Valley,2014,88,88,93,90,Drink or hold
+United States,California/Pinot Noir/Anderson Valley,2013,87,87,95,90,Drink or hold
+United States,California/Pinot Noir/Anderson Valley,2012,89,89,96,91,Drink
+United States,California/Pinot Noir/Anderson Valley,2011,86,86,91,88,Drink
+United States,California/Pinot Noir/Anderson Valley,2010,88,88,93,90,Drink
+United States,California/Pinot Noir/Anderson Valley,2009,92,92,93,92,Drink
+United States,California/Pinot Noir/Anderson Valley,2008,80,80,92,84,Drink
+United States,California/Pinot Noir/Anderson Valley,2007,91,91,95,92,Drink
+United States,California/Pinot Noir/Anderson Valley,2005,93,93,94,93,Drink
+United States,California/Pinot Noir/Anderson Valley,2004,94,94,90,93,Drink
+United States,California/Pinot Noir/Anderson Valley,2003,94,94,90,93,Drink
+United States,California/Pinot Noir/Anderson Valley,2002,86,86,87,86,Drink
+United States,California/Pinot Noir/Anderson Valley,2001,84,84,87,85,Drink
+United States,California/Pinot Noir/Anderson Valley,2000,85,85,88,86,Drink
+United States,California/Pinot Noir/Carneros,2017,91,91,91,91,Drink or hold
+United States,California/Pinot Noir/Carneros,2016,90,90,92,91,Drink or hold
+United States,California/Pinot Noir/Carneros,2015,87,87,91,88,Drink or hold
+United States,California/Pinot Noir/Carneros,2014,88,88,93,90,Drink or hold
+United States,California/Pinot Noir/Carneros,2013,88,88,94,90,Drink or hold
+United States,California/Pinot Noir/Carneros,2012,87,87,93,89,Drink
+United States,California/Pinot Noir/Carneros,2011,87,87,87,87,Drink
+United States,California/Pinot Noir/Carneros,2010,88,88,90,89,Drink
+United States,California/Pinot Noir/Carneros,2009,91,91,89,90,Drink
+United States,California/Pinot Noir/Carneros,2008,90,90,90,90,Drink
+United States,California/Pinot Noir/Carneros,2007,92,94,94,93,Drink
+United States,California/Pinot Noir/Carneros,2006,82,82,86,83,Drink
+United States,California/Pinot Noir/Carneros,2005,84,84,93,87,Drink
+United States,California/Pinot Noir/Carneros,2004,85,85,89,86,Drink
+United States,California/Pinot Noir/Carneros,2003,83,83,89,85,Drink
+United States,California/Pinot Noir/Carneros,2002,84,84,85,84,Drink
+United States,California/Pinot Noir/Carneros,2001,84,84,87,85,Drink
+United States,California/Pinot Noir/Carneros,2000,81,81,85,82,Drink
+United States,California/Pinot Noir/Carneros,1999,82,82,87,84,Drink
+United States,California/Pinot Noir/Carneros,1998,81,81,83,82,Drink
+United States,California/Pinot Noir/Carneros,1997,82,82,85,83,Drink
+United States,California/Pinot Noir/Carneros,1996,81,81,86,83,Drink
+United States,California/Pinot Noir/Santa Barbara,2017,89,89,93,90,Drink or hold
+United States,California/Pinot Noir/Santa Barbara,2016,91,91,91,91,Drink or hold
+United States,California/Pinot Noir/Santa Barbara,2015,91,91,94,92,Drink or hold
+United States,California/Pinot Noir/Santa Barbara,2014,89,89,93,90,Drink or hold
+United States,California/Pinot Noir/Santa Barbara,2013,86,86,93,88,Drink or hold
+United States,California/Pinot Noir/Santa Barbara,2012,85,85,94,88,Drink
+United States,California/Pinot Noir/Santa Barbara,2011,87,87,90,88,Drink
+United States,California/Pinot Noir/Santa Barbara,2010,94,94,92,93,Drink
+United States,California/Pinot Noir/Santa Barbara,2009,90,90,91,90,Drink
+United States,California/Pinot Noir/Santa Barbara,2008,89,89,92,90,Drink
+United States,California/Pinot Noir/Santa Barbara,2007,93,93,95,94,Drink
+United States,California/Pinot Noir/Santa Barbara,2006,84,84,90,86,Drink
+United States,California/Pinot Noir/Santa Barbara,2005,87,87,95,90,Drink
+United States,California/Pinot Noir/Santa Barbara,2004,93,93,93,93,Drink
+United States,California/Pinot Noir/Santa Barbara,2003,88,88,94,90,Drink
+United States,California/Pinot Noir/Santa Barbara,2002,88,88,94,90,Drink
+United States,California/Pinot Noir/Santa Barbara,2001,86,86,92,88,Drink
+United States,California/Pinot Noir/Santa Barbara,2000,81,81,89,84,Drink
+United States,California/Pinot Noir/Santa Barbara,1999,81,81,90,84,Drink
+United States,California/Pinot Noir/Santa Barbara,1998,81,81,84,82,Drink
+United States,California/Pinot Noir/Santa Barbara,1997,82,82,95,86,Drink
+United States,California/Pinot Noir/Santa Barbara,1996,80,80,89,83,Drink
+United States,California/Pinot Noir/Sonoma,2017,89,90,90,90,Drink or hold
+United States,California/Pinot Noir/Sonoma,2016,94,91,95,93,Drink or hold
+United States,California/Pinot Noir/Sonoma,2015,92,87,92,90,Drink or hold
+United States,California/Pinot Noir/Sonoma,2014,92,94,94,93,Drink or hold
+United States,California/Pinot Noir/Sonoma,2013,91,90,95,92,Drink or hold
+United States,California/Pinot Noir/Sonoma,2012,90,93,95,93,Drink
+United States,California/Pinot Noir/Sonoma,2011,87,84,90,87,Drink
+United States,California/Pinot Noir/Sonoma,2010,94,91,92,92,Drink
+United States,California/Pinot Noir/Sonoma,2009,97,90,91,93,Drink
+United States,California/Pinot Noir/Sonoma,2008,89,86,93,89,Drink
+United States,California/Pinot Noir/Sonoma,2007,90,90,95,92,Drink
+United States,California/Pinot Noir/Sonoma,2006,87,87,87,87,Drink
+United States,California/Pinot Noir/Sonoma,2005,88,90,95,91,Drink
+United States,California/Pinot Noir/Sonoma,2004,93,89,93,92,Drink
+United States,California/Pinot Noir/Sonoma,2003,91,90,89,90,Drink
+United States,California/Pinot Noir/Sonoma,2002,88,92,88,89,Drink
+United States,California/Pinot Noir/Sonoma,2001,85,92,89,89,Drink
+United States,California/Pinot Noir/Sonoma,2000,83,88,87,86,Drink
+United States,California/Pinot Noir/Sonoma,1999,86,90,90,89,Drink
+United States,California/Pinot Noir/Sonoma,1998,84,89,85,86,Drink
+United States,California/Pinot Noir/Sonoma,1997,85,90,90,88,Drink
+United States,California/Pinot Noir/Sonoma,1996,88,88,88,88,Past peak
+United States,California/Pinot Noir/Sonoma,1995,89,88,89,89,Past peak
+United States,California/Zinfandel/Napa,2018,91,90,90,90,Drink or hold
+United States,California/Zinfandel/Napa,2017,90,92,89,90,Drink or hold
+United States,California/Zinfandel/Napa,2016,92,93,93,93,Drink or hold
+United States,California/Zinfandel/Napa,2015,92,90,93,92,Drink or hold
+United States,California/Zinfandel/Napa,2014,93,93,93,93,Drink or hold
+United States,California/Zinfandel/Napa,2013,91,92,93,92,Drink
+United States,California/Zinfandel/Napa,2012,89,92,92,91,Drink
+United States,California/Zinfandel/Napa,2011,89,85,89,88,Drink
+United States,California/Zinfandel/Napa,2010,88,90,89,89,Drink
+United States,California/Zinfandel/Napa,2009,92,86,89,89,Drink
+United States,California/Zinfandel/Napa,2008,94,88,89,90,Drink
+United States,California/Zinfandel/Napa,2007,92,88,94,91,Drink
+United States,California/Zinfandel/Napa,2006,90,86,87,88,Drink
+United States,California/Zinfandel/Napa,2005,91,86,87,88,Drink
+United States,California/Zinfandel/Napa,2004,85,85,90,87,Drink
+United States,California/Zinfandel/Napa,2003,91,93,88,91,Drink
+United States,California/Zinfandel/Napa,2002,88,85,86,86,Drink
+United States,California/Zinfandel/Napa,2001,90,90,91,90,Drink
+United States,California/Zinfandel/Napa,2000,83,80,85,83,Past peak
+United States,California/Zinfandel/Sonoma,2018,94,90,92,92,Drink or hold
+United States,California/Zinfandel/Sonoma,2017,91,92,89,91,Drink or hold
+United States,California/Zinfandel/Sonoma,2016,95,93,93,94,Drink or hold
+United States,California/Zinfandel/Sonoma,2015,94,90,93,92,Drink or hold
+United States,California/Zinfandel/Sonoma,2014,94,93,93,93,Drink or hold
+United States,California/Zinfandel/Sonoma,2013,92,92,93,92,Drink
+United States,California/Zinfandel/Sonoma,2012,91,92,92,92,Drink
+United States,California/Zinfandel/Sonoma,2011,88,85,89,87,Drink
+United States,California/Zinfandel/Sonoma,2010,88,90,89,89,Drink
+United States,California/Zinfandel/Sonoma,2009,92,86,89,89,Drink
+United States,California/Zinfandel/Sonoma,2008,93,88,88,90,Drink
+United States,California/Zinfandel/Sonoma,2007,91,88,93,91,Drink
+United States,California/Zinfandel/Sonoma,2006,90,86,86,87,Drink
+United States,California/Zinfandel/Sonoma,2005,89,86,9,61,Drink
+United States,California/Zinfandel/Sonoma,2004,86,85,90,87,Drink
+United States,California/Zinfandel/Sonoma,2003,91,93,89,91,Drink
+United States,California/Zinfandel/Sonoma,2002,88,85,88,87,Drink
+United States,California/Zinfandel/Sonoma,2001,90,90,91,90,Drink
+United States,California/Zinfandel/Sonoma,2000,83,80,86,83,Drink
+United States,New York/Finger Lakes,2018,90,88,88,89,Drink or hold
+United States,New York/Finger Lakes,2017,90,92,91,91,Drink or hold
+United States,New York/Finger Lakes,2016,92,92,90,91,Drink or hold
+United States,New York/Finger Lakes,2015,88,88,89,88,Drink or hold
+United States,New York/Finger Lakes,2014,90,90,89,90,Drink or hold
+United States,New York/Finger Lakes,2013,87,87,88,87,Drink
+United States,New York/Finger Lakes,2012,92,92,92,92,Drink or hold
+United States,New York/Finger Lakes,2011,85,85,85,85,Drink
+United States,New York/Finger Lakes,2010,90,90,91,90,Drink
+United States,New York/Finger Lakes,2009,86,86,85,86,Drink
+United States,New York/Finger Lakes,2008,89,89,89,89,Drink
+United States,New York/Finger Lakes,2007,88,88,89,88,Drink
+United States,New York/Finger Lakes,2006,89,82,85,85,Drink or hold
+United States,New York/Finger Lakes,2005,92,88,89,90,Drink or hold
+United States,Oregon/Pinot Noir,2018,92,92,92,92,Drink or hold
+United States,Oregon/Pinot Noir,2017,94,90,93,92,Drink or hold
+United States,Oregon/Pinot Noir,2016,97,94,91,94,Drink or hold
+United States,Oregon/Pinot Noir,2015,95,93,95,94,Drink or hold
+United States,Oregon/Pinot Noir,2014,96,92,93,94,Drink or hold
+United States,Oregon/Pinot Noir,2013,90,87,92,90,Drink or hold
+United States,Oregon/Pinot Noir,2012,97,92,93,94,Drink
+United States,Oregon/Pinot Noir,2011,85,90,91,89,Drink or hold
+United States,Oregon/Pinot Noir,2010,94,88,87,90,Drink
+United States,Oregon/Pinot Noir,2009,90,86,91,89,Drink
+United States,Oregon/Pinot Noir,2008,96,94,92,94,Drink
+United States,Oregon/Pinot Noir,2007,84,84,86,85,Past peak
+United States,Oregon/Pinot Noir,2006,92,91,94,92,Drink
+United States,Oregon/Pinot Noir,2005,93,86,89,89,Drink
+United States,Oregon/Pinot Noir,2004,93,88,92,91,Drink
+United States,Oregon/Pinot Noir,2003,87,88,86,87,Past peak
+United States,Oregon/Pinot Noir,2002,95,92,88,92,Drink
+United States,Oregon/Pinot Noir,2001,91,88,89,89,Past peak
+United States,Oregon/Pinot Noir,2000,90,88,91,90,Past peak
+United States,Oregon/Pinot Noir,1999,93,92,94,93,Drink
+United States,Oregon/Pinot Noir,1998,92,89,92,91,Drink
+United States,Washington/Merlot Cabernet and Syrah,2018,91,91,92,91,Drink or hold
+United States,Washington/Merlot Cabernet and Syrah,2017,90,93,93,92,Drink or hold
+United States,Washington/Merlot Cabernet and Syrah,2016,91,90,91,91,Drink or hold
+United States,Washington/Merlot Cabernet and Syrah,2015,91,86,95,91,Drink or hold
+United States,Washington/Merlot Cabernet and Syrah,2014,92,94,93,93,Drink or hold
+United States,Washington/Merlot Cabernet and Syrah,2013,92,92,92,92,Drink or hold
+United States,Washington/Merlot Cabernet and Syrah,2012,95,95,93,94,Drink or hold
+United States,Washington/Merlot Cabernet and Syrah,2011,89,87,91,89,Drink or hold
+United States,Washington/Merlot Cabernet and Syrah,2010,91,92,87,90,Drink
+United States,Washington/Merlot Cabernet and Syrah,2009,92,92,91,92,Drink or hold
+United States,Washington/Merlot Cabernet and Syrah,2008,95,91,92,93,Drink
+United States,Washington/Merlot Cabernet and Syrah,2007,96,95,86,92,Drink
+United States,Washington/Merlot Cabernet and Syrah,2006,94,91,94,93,Drink
+United States,Washington/Merlot Cabernet and Syrah,2005,93,94,89,92,Drink
+United States,Washington/Merlot Cabernet and Syrah,2004,91,90,92,91,Drink
+United States,Washington/Merlot Cabernet and Syrah,2003,92,89,86,89,Drink
+United States,Washington/Merlot Cabernet and Syrah,2002,90,92,88,90,Drink
+United States,Washington/Merlot Cabernet and Syrah,2001,91,92,89,91,Drink
+United States,Washington/Merlot Cabernet and Syrah,2000,90,89,91,90,Drink
+United States,Washington/Merlot Cabernet and Syrah,1999,90,89,94,91,Drink
+United States,Washington/Merlot Cabernet and Syrah,1998,90,90,92,91,Drink
+United States,Washington/Merlot Cabernet and Syrah,1997,90,88,84,87,Drink
+United States,Washington/Merlot Cabernet and Syrah,1996,90,88,87,88,Drink
+United States,Washington/Merlot Cabernet and Syrah,1995,90,87,86,88,Drink

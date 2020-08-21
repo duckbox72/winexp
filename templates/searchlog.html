@@ -1,0 +1,53 @@
+{% extends "layout.html"%}
+   
+{% block title%}
+    Search Log
+{% endblock %}
+
+{% block main %}
+<div class="container bg-light border border-muted rounded shadow">
+    <div class="row p-2 justify-content-md-center">
+        <div class="col-10 text-info">
+            <h4>Recent Searches</h4>
+        </div>
+        <div class="col-2 text-muted text-right">
+                <img src="static/flags/{{ country }}.png" height=36 alt="{{ country }}">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col overflow-auto border border-muted rounded"  style="height: 440px;">
+            <table class="table table-hover table-striped small text-info">
+                <tr class="text-muted" style="font-size: 14px;">
+                    <th>Vintage</th>
+                    <th>Wine</th>
+                    <th>Region</th>
+                    <th>WXpScore</th>
+                    <th>CIndx</th>
+                    <th>JCt</th>
+
+                </tr>
+                {% for row in rows %}
+                <tr>
+                    <td>{{ row['vintage'] }}</td>
+                    <td>
+                        <form action="/search" method="POST">
+                            <button type="submit" name="wine" value="{{ row['wine'] }}" class="btn btn-sm btn-link text-info" style="font-size: 12px;">{{ row['wine'] }}</button>
+                            <input class="form-group" type="hidden" name="vintage" value="{{ row['vintage'] }}"></input>
+                        </form>
+                    </td>
+                    <td>{{ row['region'] }}</td>
+                    <td>{{ row['score'] }}</td>
+                    <td>{{ row['confidence_index'] }}</td>
+                    <td>{{ row['journalist_count'] }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+
+{% block footer %}
+Data provided by <a href="https://api.globalwinescore.com/">GWS</a>. View <a href="https://globalwinescore.docs.apiary.io/introduction/rate-limiting">GWS’s Terms of Use</a>.
+{% endblock %}

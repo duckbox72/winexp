@@ -1,0 +1,101 @@
+{% extends "layout.html"%}
+   
+{% block title%}
+    Searched
+{% endblock %}
+
+{% block main %}
+<div class="container pb-2 pt-3 mb-3 border border-muted rounded shadow bg-light">
+    <form action="/search" method="POST">
+        <div class="form-row pt-3 justify-content-md-center">
+            <div class="form-group pr-2">
+                <input class="form-control rounded-pill shadow-sm" name="wine" type="text" placeholder="Wine name" autofocus style="min-width: 305px; font-size: 18px;">
+            </div>
+            <div class="form-group pr-2" style="min-width: 120px;">
+                <input class="form-control rounded-pill shadow-sm" name="vintage" type="number" placeholder="Vintage" style="min-width: 120px; font-size: 18px;">
+            </div>
+            <div class="form-group pb-3">
+                <button class="btn btn-primary border border-muted rounded-pill shadow-sm" type="submit>" style="min-width: 80px; font-size: 18px;"> <img src="static/mag-glass-icon.png" height=22 alt="Search"> </button>
+            </div>
+        </div>
+    </form>
+</div>
+
+{% if rows %}
+<div class="container border border-muted rounded shadow">
+    <div class="row justify-content-md-center">
+        <div class="col align-items-center" style="height: 360px; min-width: 260px;">
+            <div class="row" style="height: 120px;">
+                <div class="col border border-muted rounded bg-light">
+                    <h6 class="pt-2 text-secondary">Name</h6>
+                    <p class="pt-4 text-info"> {{ winevint["wine"] }}, {{ winevint["vintage"] }}</p>
+                </div>
+            </div>
+            <div class="row" style="height: 110px;">
+                <div class="col border border-muted rounded">
+                    <h6 class="pt-2 text-secondary">Country</h6>
+                    <p class="pt-4 text-info">{{ winevint["country"] }}</p6>
+                </div>
+                <div class="col-6 border border-muted rounded">
+                    <h6 class="pt-2 text-secondary">Appellation</h6>
+                    <p class="pt-4 text-info">{{ winevint["appellation"] }}, {{ winevint["regions"][0] }}</p>
+                </div>
+                <div class="col border border-muted rounded">
+                    <h6 class="pt-2 text-secondary">Color</h6>
+                    <p class="pt-4 text-info">{{ winevint["color"] }}</p6>
+                </div>
+            </div>
+            <div class="row" style="height: 130px;">
+                <div class="col border border-muted rounded bg-light">
+                    <h6 class="pt-2 text-secondary">ProReviews</h6>
+                    <h3 class="pt-4 text-info">{{ winevint["journalist_count"] }}</h3>
+                    <h3 class="text-muted" style="font-size: 12px;">Confidence Index: <span class="text-info" style="font-size: 13px;">{{ winevint["confidence_index"] }}</span></h3>
+                </div>
+                <div class="col border border-muted rounded bg-light">
+                    <h6 class="pt-2 text-secondary">GlobalWineScore</h6>
+                    <h3 class="pt-4 text-info">{{ winevint["score"] }}<span style="font-size: 12px;">/100</span></h3>
+                    <h3 class="text-muted" style="font-size: 12px;">Updated: <span class="text-info" style="font-size: 13px;">{{ date }}</span></h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col overflow-auto border border-muted rounded" style="min-width: 260px; max-width: 400px; height: 360px;">
+            <table class="table table-hover table-striped small text-info">
+                <tr class="text-muted" style="font-size: 14px;">
+                    <th>Rank</th>
+                    <th>Wine Name</th>
+                    <th>Score</th>
+                </tr>
+                {% for row in rows %}
+                <tr>
+                    <td>{{ row['rank']}}</td>
+                    <td>
+                        <form action="/search" method="POST">
+                            <button type="submit" name="wine" value="{{ row['wine'] }}" class="btn btn-sm btn-link text-info" style="font-size: 12px;">{{ row['vintage'] }} {{ row['wine'] }}</button>
+                            <input class="form-group" type="hidden" name="vintage" value="{{ row['vintage'] }}"></input>
+                        </form>  
+                    </td>
+                    <td>{{ row['score'] }}</td>
+                </tr>
+                   
+
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+</div>
+{% else %}
+<div class="container p-5 bg-light border border-muted rounded shadow" style="height: 300px;">
+    <div class="row pt-5 justify-content-md-center text-muted">
+        <h3>Sorry! Your search returned no results.</h3>
+    </div>
+    <div class="row justify-content-md-center text-muted">
+        <h3>Please try another search.</h3>
+    </div>
+</div>
+{% endif %}
+{% endblock %}
+
+{% block footer %}
+    Data provided by <a href="https://api.globalwinescore.com/">GWS</a>. View <a href="https://globalwinescore.docs.apiary.io/introduction/rate-limiting">GWS’s Terms of Use</a>.
+{% endblock %}

@@ -1,0 +1,42 @@
+{% extends "layout.html"%}
+   
+{% block title %}
+    Login
+{% endblock %}
+
+{% block main %}
+<div class="container border border-muted rounded shadow-sm bg-light" style="height: 360px; width: 360px;">
+    
+    <div class="row justify-content-center">  
+        <h3 class="text-muted text-center pt-5 ">Log in to WineXp</h3>
+    </div>
+    <div class="row justify-content-center">   
+        <p class="text-muted text-center" style="font-size: 12px;">and have free access to over 30,000 wine ratings.</p>
+    </div>
+    
+    <form class="form pt-2" action="/login" method="post">
+        <div class="row justify-content-center">
+            <div class="form-group">
+                <input class="form-control rounded-pill shadow-sm" autocomplete="off" autofocus name="email" placeholder="Email" type="text">
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="form-group">
+                <input class="form-control rounded-pill shadow-sm" name="password" placeholder="Password" type="password">
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <button class="btn btn-primary rounded-pill shadow-sm" type="submit">Log In</button>
+        </div>
+    </form>
+
+    <div class="row justify-content-center">   
+        <p class="text-muted text-center p-2" style="font-size: 12px;">Don't have an account? <a href="/register">Sign Up</a></p>
+    </div>
+
+</div>
+{% endblock %}
+
+{% block footer %}
+    Data provided by <a href="https://api.globalwinescore.com/">GWS</a>. View <a href="https://globalwinescore.docs.apiary.io/introduction/rate-limiting">GWS’s Terms of Use</a>.
+{% endblock %}

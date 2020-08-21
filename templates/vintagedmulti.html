@@ -1,0 +1,88 @@
+{% extends "layout.html"%}
+   
+{% block title%}
+    Vintaged Single
+{% endblock %}
+
+{% block main %}
+<div class="container pb-2 pt-3 mb-3 border border-muted rounded shadow bg-light">
+    <form action="/vintages" method="POST">
+        <form action="/vintages" method="POST">
+            <div class="form-row pt-2">
+                <div class="col text-center pb-2">
+                    <button type="submit" name="country" value="Argentina" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Argentina</button>
+                </div>
+                <div class="col text-center pb-2">
+                    <button type="submit" name="country" value="Australia" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Australia</button>
+                </div>
+                <div class="col text-center pb-2">
+                    <button type="submit" name="country" value="Austria" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Austria</button>
+                </div>
+                <div class="col text-center">
+                    <button type="submit" name="country" value="Chile" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Chile</button>
+                </div>
+                <div class="col text-center">
+                    <button type="submit" name="country" value="France" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">France</button>
+                </div>
+                <div class="col text-center">
+                    <button type="submit" name="country" value="Germany" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Germany</button>
+                </div>
+            </div>
+            <div class="form-row pt-2 justify-content-md-center">
+                <div class="col text-center pb-2">
+                    <button type="submit" name="country" value="Italy" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Italy</button>
+                </div> 
+                <div class="col text-center pb-2">
+                    <button type="submit" name="country" value="New Zealand" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">New Zealand</button>
+                </div>
+                <div class="col text-center pb-2">
+                    <button type="submit" name="country" value="Portugal" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Portugal</button>
+                </div>
+                <div class="col text-center">
+                    <button type="submit" name="country" value="South Africa" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">South Africa</button>
+                </div>
+                <div class="col text-center">
+                    <button type="submit" name="country" value="Spain" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Spain</button>
+                </div>
+                <div class="col text-center">
+                    <button type="submit" name="country" value="United States" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">United States</button>
+                </div>
+            </div>
+        </form>  
+    </form>
+</div>
+
+<div class="container bg-light border border-muted rounded shadow">
+    <div class="row p-2 justify-content-md-center">
+        <div class="col-10 text-muted">
+            <h4>{{ country }}</h4>
+        </div>
+        <div class="col-2 text-muted text-right">
+                <img src="static/flags/{{ country }}.png" height=36 alt="{{ country }}">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col overflow-auto border border-muted rounded"  style="height: 305px;">
+            <table class="table table-hover table-striped small">
+                <tr class="text-muted" style="font-size: 14px;">
+                    <th>Choose Region</th>
+                </tr>
+                {% for row in rows %}
+                <tr>      
+                    <td>
+                        <form action="/vintages" method="POST">
+                            <button type="submit" name="region" value="{{ row['region'] }}" class="btn btn-sm btn-link text-info">{{ row['region'] }}</div>
+                        </form>
+                    </td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+
+{% block footer %}
+Data provided by <a href="/">duckdata®</a>. View <a href="/">duckdata® Terms of Use</a>.
+{% endblock %}

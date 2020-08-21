@@ -1,0 +1,72 @@
+{% extends "layout.html"%}
+   
+{% block title%}
+    Vintages
+{% endblock %}
+
+{% block main %}
+
+<div class="container text-muted bg-light border border-muted rounded shadow" style="height: 495px;">
+    <div class="row justify-content-center pt-5">
+        <h3>Search WineXp</h3> 
+    </div>
+    <div class="row justify-content-center">
+        <h2>Vintage Charts</h2>
+    </div>
+    <div class="row justify-content-center pb-4">   
+        <p class="text-muted text-center" style="font-size: 12px;">For a comprehensive list of vintage scores</p>
+    </div>
+
+    <form action="/vintages" method="POST">
+        <div class="form-row pt-2">
+            <div class="col text-center pb-2">
+                <button type="submit" name="country" value="Argentina" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Argentina</button>
+            </div>
+            <div class="col text-center pb-2">
+                <button type="submit" name="country" value="Australia" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Australia</button>
+            </div>
+            <div class="col text-center pb-2">
+                <button type="submit" name="country" value="Austria" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Austria</button>
+            </div>
+            <div class="col text-center">
+                <button type="submit" name="country" value="Chile" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Chile</button>
+            </div>
+            <div class="col text-center">
+                <button type="submit" name="country" value="France" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">France</button>
+            </div>
+            <div class="col text-center">
+                <button type="submit" name="country" value="Germany" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Germany</button>
+            </div>
+        </div>
+        <div class="form-row pt-2 justify-content-md-center">
+            <div class="col text-center pb-2">
+                <button type="submit" name="country" value="Italy" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Italy</button>
+            </div> 
+            <div class="col text-center pb-2">
+                <button type="submit" name="country" value="New Zealand" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">New Zealand</button>
+            </div>
+            <div class="col text-center pb-2">
+                <button type="submit" name="country" value="Portugal" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Portugal</button>
+            </div>
+            <div class="col text-center">
+                <button type="submit" name="country" value="South Africa" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">South Africa</button>
+            </div>
+            <div class="col text-center">
+                <button type="submit" name="country" value="Spain" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">Spain</button>
+            </div>
+            <div class="col text-center">
+                <button type="submit" name="country" value="United States" class="btn btn-sm btn-outline-secondary rounded-pill shadow-sm text-info" style="width: 130px">United States</button>
+            </div>
+        </div>
+    </form>  
+    <div class="row justify-content-center">   
+        <p class="text-muted text-center p-4" style="font-size: 12px;">Or <a href="/search">Search wines</a> for over 30.000 scores.</p>
+    </div>
+</div>
+{% endblock %}
+
+
+{% block footer %}
+ Data provided by <a href="/">duckdata®</a>. View <a href="/">duckdata® Terms of Use</a>.
+{% endblock %}
+
