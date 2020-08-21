@@ -1,1 +1,1 @@
-web: gunicorn winexp.wsgi --log-file -
+web: gunicorn wsgi:winexp
