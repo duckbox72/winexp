@@ -2,3 +2,4 @@ CS50
 Flask
 Flask-Session
 requests
+gunicorn
