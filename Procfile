@@ -1,1 +1,1 @@
-web: gunicorn wsgi:winexp
+web: gunicorn wsgi:app
